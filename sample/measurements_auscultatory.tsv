@@ -1,0 +1,97 @@
+pid	phase	measurement	date_time	sbp	dbp	duration	pressure_quality	optical_quality	waveform_file_path	waveforms_generated	primary_systolic	primary_diastolic	secondary_systolic	secondary_diastolic	consensus_systolic_error	consensus_diastolic_error
+a000	initial	Calibration start 1	2018-01-01 13:14:20	110.0	74.0	18.5	1.0	0.983	measurements_auscultatory/a000/a000.initial.Calibration_start_1.tsv	1	108.0	72.0	112.0	76.0	4.0	4.0
+a000	initial	Calibration start 2	2018-01-01 13:16:15	113.0	73.0	17.8	1.0	0.95	measurements_auscultatory/a000/a000.initial.Calibration_start_2.tsv	1	114.0	70.0	112.0	76.0	2.0	6.0
+a000	initial	Calibration start 3	2018-01-01 13:17:59	118.0	71.0	0.0	-1.0	-1.0		0	118.0	72.0	118.0	70.0	0.0	2.0
+a000	initial	Static challenge start 1	2018-01-01 13:19:49	121.0	71.0	21.0	1.0	0.9279999999999999	measurements_auscultatory/a000/a000.initial.Static_challenge_start_1.tsv	1	120.0	72.0	122.0	70.0	2.0	2.0
+a000	initial	Static challenge start 2	2018-01-01 13:21:44	111.0	73.0	20.2	1.0	1.0	measurements_auscultatory/a000/a000.initial.Static_challenge_start_2.tsv	1	110.0	72.0	112.0	74.0	2.0	2.0
+a000	initial	Static challenge start 3	2018-01-01 13:23:46	108.0	73.0	18.8	0.0	0.9540000000000001	measurements_auscultatory/a000/a000.initial.Static_challenge_start_3.tsv	1	108.0	74.0	108.0	72.0	0.0	2.0
+a000	initial	Static seated challenge 1	2018-01-01 13:29:56	121.0	74.0	17.9	0.912	0.938	measurements_auscultatory/a000/a000.initial.Static_seated_challenge_1.tsv	1	122.0	72.0	120.0	76.0	2.0	4.0
+a000	initial	Static seated challenge 2	2018-01-01 13:32:11	113.5	81.0	17.1	0.33799999999999997	0.9470000000000001	measurements_auscultatory/a000/a000.initial.Static_seated_challenge_2.tsv	1	115.0	80.0	112.0	82.0	3.0	2.0
+a000	initial	Static seated challenge 3	2018-01-01 13:34:04	115.0	75.0	18.2	1.0	1.0	measurements_auscultatory/a000/a000.initial.Static_seated_challenge_3.tsv	1	114.0	74.0	116.0	76.0	2.0	2.0
+a000	initial	Exercise challenge start 1	2018-01-01 13:40:01	132.0	58.0	20.3	0.0	0.9670000000000001	measurements_auscultatory/a000/a000.initial.Exercise_challenge_start_1.tsv	1	134.0	58.0	130.0	58.0	4.0	0.0
+a000	initial	Exercise challenge start 2	2018-01-01 13:43:28	131.5	61.0	20.6	0.8809999999999999	0.934	measurements_auscultatory/a000/a000.initial.Exercise_challenge_start_2.tsv	1	133.0	60.0	130.0	62.0	3.0	2.0
+a000	return	Temporal challenge start 1	2018-01-02 15:06:47	112.0	68.5	21.2	1.0	0.9440000000000001	measurements_auscultatory/a000/a000.return.Temporal_challenge_start_1.tsv	1	112.0	68.0	112.0	69.0	0.0	1.0
+a000	return	Temporal challenge start 2	2018-01-02 15:08:38	116.5	67.0	18.5	0.0	0.97	measurements_auscultatory/a000/a000.return.Temporal_challenge_start_2.tsv	1	117.0	66.0	116.0	68.0	1.0	2.0
+a000	return	Temporal challenge start 3	2018-01-02 15:10:39	108.0	62.0	17.9	0.0	0.9620000000000001	measurements_auscultatory/a000/a000.return.Temporal_challenge_start_3.tsv	1	108.0	60.0	108.0	64.0	0.0	4.0
+a001	initial	Calibration start 1	2018-01-01 09:15:08	137.0	89.0	19.3	0.907	0.938	measurements_auscultatory/a001/a001.initial.Calibration_start_1.tsv	1	136.0	90.0	138.0	88.0	2.0	2.0
+a001	initial	Calibration start 2	2018-01-01 09:17:00	142.0	92.0	17.2	1.0	0.9570000000000001	measurements_auscultatory/a001/a001.initial.Calibration_start_2.tsv	1	142.0	94.0	142.0	90.0	0.0	4.0
+a001	initial	Calibration start 3	2018-01-01 09:18:39	139.0	92.0	19.2	1.0	0.937	measurements_auscultatory/a001/a001.initial.Calibration_start_3.tsv	1	138.0	92.0	140.0	92.0	2.0	0.0
+a001	initial	Static challenge start 1	2018-01-01 09:20:22	140.0	90.0	18.6	0.927	0.982	measurements_auscultatory/a001/a001.initial.Static_challenge_start_1.tsv	1	140.0	90.0	140.0	90.0	0.0	0.0
+a001	initial	Static challenge start 2	2018-01-01 09:22:00	151.0	95.0	18.4	1.0	0.973	measurements_auscultatory/a001/a001.initial.Static_challenge_start_2.tsv	1	150.0	96.0	152.0	94.0	2.0	2.0
+a001	initial	Static challenge start 3	2018-01-01 09:23:43	147.0	90.0	20.4	0.8240000000000001	0.961	measurements_auscultatory/a001/a001.initial.Static_challenge_start_3.tsv	1	146.0	90.0	148.0	90.0	2.0	0.0
+a001	initial	Exercise challenge start 1	2018-01-01 09:28:38	133.0	71.0	21.3	1.0	0.902	measurements_auscultatory/a001/a001.initial.Exercise_challenge_start_1.tsv	1	134.0	70.0	132.0	72.0	2.0	2.0
+a001	initial	Exercise challenge start 2	2018-01-01 09:32:12	140.0	72.0	21.2	1.0	0.8959999999999999	measurements_auscultatory/a001/a001.initial.Exercise_challenge_start_2.tsv	1	140.0	72.0	140.0	72.0	0.0	0.0
+a001	return	Temporal challenge start 1	2018-01-02 14:37:20	130.0	84.0	18.5	0.8490000000000001	0.94	measurements_auscultatory/a001/a001.return.Temporal_challenge_start_1.tsv	1	130.0	86.0	130.0	82.0	0.0	4.0
+a001	return	Temporal challenge start 2	2018-01-02 14:39:03	135.0	88.0	19.4	0.0	0.8029999999999999	measurements_auscultatory/a001/a001.return.Temporal_challenge_start_2.tsv	1	134.0	90.0	136.0	86.0	2.0	4.0
+a001	return	Temporal challenge start 3	2018-01-02 14:40:40	135.0	86.0	19.7	0.9309999999999999	0.961	measurements_auscultatory/a001/a001.return.Temporal_challenge_start_3.tsv	1	134.0	86.0	136.0	86.0	2.0	0.0
+a002	initial	Calibration start 1	2018-01-01 07:54:02	116.0	69.5	23.9	1.0	0.9740000000000001	measurements_auscultatory/a002/a002.initial.Calibration_start_1.tsv	1	116.0	70.0	116.0	69.0	0.0	1.0
+a002	initial	Calibration start 2	2018-01-01 07:55:57	118.0	69.0	22.4	1.0	1.0	measurements_auscultatory/a002/a002.initial.Calibration_start_2.tsv	1	117.0	69.0	119.0	69.0	2.0	0.0
+a002	initial	Calibration start 3	2018-01-01 07:57:52	119.0	68.5	27.1	1.0	0.988	measurements_auscultatory/a002/a002.initial.Calibration_start_3.tsv	1	118.0	69.0	120.0	68.0	2.0	1.0
+a002	initial	Static challenge start 1	2018-01-01 07:59:58	114.0	69.0	21.8	1.0	1.0	measurements_auscultatory/a002/a002.initial.Static_challenge_start_1.tsv	1	114.0	69.0	114.0	69.0	0.0	0.0
+a002	initial	Static challenge start 2	2018-01-01 08:01:56	118.5	71.0	23.5	1.0	1.0	measurements_auscultatory/a002/a002.initial.Static_challenge_start_2.tsv	1	119.0	71.0	118.0	71.0	1.0	0.0
+a002	initial	Static challenge start 3	2018-01-01 08:03:50	119.5	75.5	17.1	1.0	0.9309999999999999	measurements_auscultatory/a002/a002.initial.Static_challenge_start_3.tsv	1	120.0	76.0	119.0	75.0	1.0	1.0
+a002	initial	Seated calibration 1	2018-01-01 08:12:06	116.0	72.0	20.4	0.634	0.9740000000000001	measurements_auscultatory/a002/a002.initial.Seated_calibration_1.tsv	1	117.0	73.0	115.0	71.0	2.0	2.0
+a002	initial	Seated calibration 2	2018-01-01 08:14:03	123.0	70.5	21.6	1.0	0.965	measurements_auscultatory/a002/a002.initial.Seated_calibration_2.tsv	1	124.0	71.0	122.0	70.0	2.0	1.0
+a002	initial	Seated calibration 3	2018-01-01 08:15:55	119.5	80.5	19.2	0.973	0.9590000000000001	measurements_auscultatory/a002/a002.initial.Seated_calibration_3.tsv	1	120.0	76.0	119.0	85.0	1.0	9.0
+a002	initial	Static seated challenge 1	2018-01-01 08:17:44	117.0	75.0	19.1	1.0	1.0	measurements_auscultatory/a002/a002.initial.Static_seated_challenge_1.tsv	1	118.0	77.0	116.0	73.0	2.0	4.0
+a002	initial	Static seated challenge 2	2018-01-01 08:19:41	116.5	72.0	20.2	1.0	0.965	measurements_auscultatory/a002/a002.initial.Static_seated_challenge_2.tsv	1	116.0	72.0	117.0	72.0	1.0	0.0
+a002	initial	Static seated challenge 3	2018-01-01 08:21:41	129.0	64.5	16.2	0.5589999999999999	0.978	measurements_auscultatory/a002/a002.initial.Static_seated_challenge_3.tsv	1	128.0	69.0	130.0	60.0	2.0	9.0
+a002	initial	Exercise challenge start 1	2018-01-01 08:36:37	146.0	54.0	22.1	0.5539999999999999	0.9079999999999999	measurements_auscultatory/a002/a002.initial.Exercise_challenge_start_1.tsv	1	147.0	52.0	145.0	56.0	2.0	4.0
+a002	initial	Exercise challenge start 2	2018-01-01 07:39:41	146.5		0.0	-1.0	-1.0		0	147.0		146.0		1.0	
+a002	return	Temporal challenge start 1	2018-01-02 16:12:41	105.0	61.0	22.0	1.0	1.0	measurements_auscultatory/a002/a002.return.Temporal_challenge_start_1.tsv	1	105.0	61.0	105.0	61.0	0.0	0.0
+a002	return	Temporal challenge start 2	2018-01-02 16:14:49	108.0	64.0	19.1	1.0	0.996	measurements_auscultatory/a002/a002.return.Temporal_challenge_start_2.tsv	1	108.0	64.0	108.0	64.0	0.0	0.0
+a002	return	Temporal challenge start 3	2018-01-02 16:16:55	114.0	70.0	20.5	1.0	0.9079999999999999	measurements_auscultatory/a002/a002.return.Temporal_challenge_start_3.tsv	1	114.0	70.0	114.0	70.0	0.0	0.0
+a002	return	Temporal seated challenge 1	2018-01-02 16:23:48	127.0	73.0	27.1	1.0	0.9490000000000001	measurements_auscultatory/a002/a002.return.Temporal_seated_challenge_1.tsv	1	127.0	73.0	127.0	73.0	0.0	0.0
+a002	return	Temporal seated challenge 2	2018-01-02 16:25:59	121.0	72.0	21.1	1.0	0.932	measurements_auscultatory/a002/a002.return.Temporal_seated_challenge_2.tsv	1	121.0	72.0	121.0	72.0	0.0	0.0
+a002	return	Temporal seated challenge 3	2018-01-02 16:28:01	120.0	78.0	26.7	1.0	0.929	measurements_auscultatory/a002/a002.return.Temporal_seated_challenge_3.tsv	1	120.0	78.0	120.0	78.0	0.0	0.0
+a003	initial	Calibration start 1	2018-01-01 09:42:31	115.5	78.0	17.5	0.0	0.775	measurements_auscultatory/a003/a003.initial.Calibration_start_1.tsv	1	117.0	78.0	114.0	78.0	3.0	0.0
+a003	initial	Calibration start 2	2018-01-01 09:44:25	120.5	83.5	21.1	0.74	0.843	measurements_auscultatory/a003/a003.initial.Calibration_start_2.tsv	1	121.0	81.0	120.0	86.0	1.0	5.0
+a003	initial	Calibration start 3	2018-01-01 09:46:12	126.0	84.5	23.5	0.532	0.5710000000000001	measurements_auscultatory/a003/a003.initial.Calibration_start_3.tsv	1	128.0	83.0	124.0	86.0	4.0	3.0
+a003	initial	Static challenge start 1	2018-01-01 09:48:08	126.0	82.0	21.7	0.6509999999999999	0.747	measurements_auscultatory/a003/a003.initial.Static_challenge_start_1.tsv	1	128.0	82.0	124.0	82.0	4.0	0.0
+a003	initial	Static challenge start 2	2018-01-01 09:50:00	119.0	84.0	17.6	0.557	0.7140000000000001	measurements_auscultatory/a003/a003.initial.Static_challenge_start_2.tsv	1	120.0	84.0	118.0	84.0	2.0	0.0
+a003	initial	Static challenge start 3	2018-01-01 09:51:52	123.0	83.5	18.9	0.0	0.792	measurements_auscultatory/a003/a003.initial.Static_challenge_start_3.tsv	1	124.0	83.0	122.0	84.0	2.0	1.0
+a003	initial	Seated calibration 1	2018-01-01 09:58:38	115.5	76.0	18.9	0.875	0.956	measurements_auscultatory/a003/a003.initial.Seated_calibration_1.tsv	1	115.0	76.0	116.0	76.0	1.0	0.0
+a003	initial	Seated calibration 2	2018-01-01 10:00:28	116.0	78.0	17.6	0.6970000000000001	0.877	measurements_auscultatory/a003/a003.initial.Seated_calibration_2.tsv	1	116.0	78.0	116.0	78.0	0.0	0.0
+a003	initial	Seated calibration 3	2018-01-01 10:02:31	121.5	81.5	19.3	0.746	0.831	measurements_auscultatory/a003/a003.initial.Seated_calibration_3.tsv	1	121.0	83.0	122.0	80.0	1.0	3.0
+a003	initial	Static seated challenge 1	2018-01-01 10:04:21	118.5	76.5	17.4	0.96	0.9620000000000001	measurements_auscultatory/a003/a003.initial.Static_seated_challenge_1.tsv	1	116.0	77.0	121.0	76.0	5.0	1.0
+a003	initial	Static seated challenge 2	2018-01-01 10:06:23	118.5	74.5	19.0	0.657	0.691	measurements_auscultatory/a003/a003.initial.Static_seated_challenge_2.tsv	1	118.0	75.0	119.0	74.0	1.0	1.0
+a003	initial	Static seated challenge 3	2018-01-01 10:08:12	113.5	73.5	17.7	0.345	0.9440000000000001	measurements_auscultatory/a003/a003.initial.Static_seated_challenge_3.tsv	1	114.0	75.0	113.0	72.0	1.0	3.0
+a003	initial	Exercise challenge start 1	2018-01-01 10:13:53	159.0	77.0	21.4	0.37200000000000005	0.0	measurements_auscultatory/a003/a003.initial.Exercise_challenge_start_1.tsv	1	158.0	78.0	160.0	76.0	2.0	2.0
+a003	initial	Exercise challenge start 2	2018-01-01 10:18:08	159.5	77.5	19.3	0.0	0.657	measurements_auscultatory/a003/a003.initial.Exercise_challenge_start_2.tsv	1	158.0	79.0	161.0	76.0	3.0	3.0
+a003	return	Temporal challenge start 1	2018-01-02 10:32:13	124.0	80.0	21.4	0.384	0.0	measurements_auscultatory/a003/a003.return.Temporal_challenge_start_1.tsv	1	124.0	78.0	124.0	82.0	0.0	4.0
+a003	return	Temporal challenge start 2	2018-01-02 10:34:06	125.5	83.5	19.2	0.387	0.532	measurements_auscultatory/a003/a003.return.Temporal_challenge_start_2.tsv	1	126.0	83.0	125.0	84.0	1.0	1.0
+a003	return	Temporal challenge start 3	2018-01-02 10:35:51	122.5	87.0	19.2	0.413	0.505	measurements_auscultatory/a003/a003.return.Temporal_challenge_start_3.tsv	1	123.0	86.0	122.0	88.0	1.0	2.0
+a003	return	Temporal seated challenge 1	2018-01-02 10:42:23	118.0	87.0	17.3	0.861	0.9359999999999999	measurements_auscultatory/a003/a003.return.Temporal_seated_challenge_1.tsv	1	118.0	86.0	118.0	88.0	0.0	2.0
+a003	return	Temporal seated challenge 2	2018-01-02 10:44:11	123.5	84.5	18.3	0.647	0.652	measurements_auscultatory/a003/a003.return.Temporal_seated_challenge_2.tsv	1	122.0	85.0	125.0	84.0	3.0	1.0
+a003	return	Temporal seated challenge 3	2018-01-02 10:46:35	127.5	82.5	18.5	0.0	0.0	measurements_auscultatory/a003/a003.return.Temporal_seated_challenge_3.tsv	1	127.0	83.0	128.0	82.0	1.0	1.0
+a004	initial	Calibration start 1	2018-01-01 07:37:38	110.0	61.0	22.1	1.0	0.935	measurements_auscultatory/a004/a004.initial.Calibration_start_1.tsv	1	110.0	61.0			0.0	0.0
+a004	initial	Calibration start 2	2018-01-01 07:39:33	112.0	65.0	18.3	1.0	0.934	measurements_auscultatory/a004/a004.initial.Calibration_start_2.tsv	1	112.0	65.0			0.0	0.0
+a004	initial	Calibration start 3	2018-01-01 07:41:23	118.0	69.0	20.2	0.78	0.917	measurements_auscultatory/a004/a004.initial.Calibration_start_3.tsv	1	118.0	69.0			0.0	0.0
+a004	initial	Static challenge start 1	2018-01-01 07:43:17	114.0	67.0	18.1	0.9790000000000001	0.91	measurements_auscultatory/a004/a004.initial.Static_challenge_start_1.tsv	1	114.0	67.0			0.0	0.0
+a004	initial	Static challenge start 2	2018-01-01 07:45:15	117.0	72.0	15.4	0.879	0.971	measurements_auscultatory/a004/a004.initial.Static_challenge_start_2.tsv	1	117.0	72.0			0.0	0.0
+a004	initial	Static challenge start 3	2018-01-01 07:47:14	116.0	71.0	15.5	0.6629999999999999	0.909	measurements_auscultatory/a004/a004.initial.Static_challenge_start_3.tsv	1	116.0	71.0			0.0	0.0
+a004	initial	Seated calibration 1	2018-01-01 07:52:56	117.0	66.0	21.3	1.0	0.92	measurements_auscultatory/a004/a004.initial.Seated_calibration_1.tsv	1	117.0	66.0			0.0	0.0
+a004	initial	Seated calibration 2	2018-01-01 07:54:47	120.0	72.0	17.3	1.0	0.905	measurements_auscultatory/a004/a004.initial.Seated_calibration_2.tsv	1	120.0	72.0			0.0	0.0
+a004	initial	Seated calibration 3	2018-01-01 07:56:38	116.0	69.0	18.4	1.0	0.9329999999999999	measurements_auscultatory/a004/a004.initial.Seated_calibration_3.tsv	1	116.0	69.0			0.0	0.0
+a004	initial	Static seated challenge 1	2018-01-01 07:58:31	113.0	67.0	16.6	1.0	0.975	measurements_auscultatory/a004/a004.initial.Static_seated_challenge_1.tsv	1	113.0	67.0			0.0	0.0
+a004	initial	Static seated challenge 2	2018-01-01 08:00:34	117.0	69.0	18.5	1.0	0.9470000000000001	measurements_auscultatory/a004/a004.initial.Static_seated_challenge_2.tsv	1	117.0	69.0			0.0	0.0
+a004	initial	Static seated challenge 3	2018-01-01 08:03:02	119.0	69.0	19.5	1.0	0.9620000000000001	measurements_auscultatory/a004/a004.initial.Static_seated_challenge_3.tsv	1	119.0	69.0			0.0	0.0
+a004	initial	Exercise challenge start 1	2018-01-01 08:07:32	158.0	41.0	24.9	0.48200000000000004	0.935	measurements_auscultatory/a004/a004.initial.Exercise_challenge_start_1.tsv	1	158.0	41.0			0.0	0.0
+a004	initial	Exercise challenge start 2	2018-01-01 08:11:03	150.0	0.0	27.1	0.09699999999999999	0.89	measurements_auscultatory/a004/a004.initial.Exercise_challenge_start_2.tsv	1	150.0	0.0			0.0	0.0
+a004	return	Temporal challenge start 1	2018-01-02 15:10:34	114.0	63.0	21.2	1.0	0.922	measurements_auscultatory/a004/a004.return.Temporal_challenge_start_1.tsv	1	114.0	63.0			0.0	0.0
+a004	return	Temporal challenge start 2	2018-01-02 15:12:30	116.0	63.0	19.5	1.0	0.9620000000000001	measurements_auscultatory/a004/a004.return.Temporal_challenge_start_2.tsv	1	116.0	63.0			0.0	0.0
+a004	return	Temporal challenge start 3	2018-01-02 15:14:30	114.0	62.0	18.0	1.0	0.953	measurements_auscultatory/a004/a004.return.Temporal_challenge_start_3.tsv	1	114.0	62.0			0.0	0.0
+a004	return	Temporal seated challenge 1	2018-01-02 15:20:13	120.0	61.0	19.8	0.963	0.9109999999999999	measurements_auscultatory/a004/a004.return.Temporal_seated_challenge_1.tsv	1	120.0	61.0			0.0	0.0
+a004	return	Temporal seated challenge 2	2018-01-02 15:22:12	114.0	61.0	17.9	1.0	0.919	measurements_auscultatory/a004/a004.return.Temporal_seated_challenge_2.tsv	1	114.0	61.0			0.0	0.0
+a004	return	Temporal seated challenge 3	2018-01-02 15:24:06	115.0	60.0	18.6	1.0	0.764	measurements_auscultatory/a004/a004.return.Temporal_seated_challenge_3.tsv	1	115.0	60.0			0.0	0.0
+a005	initial	Calibration start 1	2018-01-01 09:19:08	110.0	68.0	18.2	1.0	0.941	measurements_auscultatory/a005/a005.initial.Calibration_start_1.tsv	1	110.0	68.0	110.0	68.0	0.0	0.0
+a005	initial	Calibration start 2	2018-01-01 09:21:08	110.5	67.0	18.2	0.732	0.955	measurements_auscultatory/a005/a005.initial.Calibration_start_2.tsv	1	111.0	68.0	110.0	66.0	1.0	2.0
+a005	initial	Calibration start 3	2018-01-01 09:23:35	110.0	68.0	18.2	1.0	0.988	measurements_auscultatory/a005/a005.initial.Calibration_start_3.tsv	1	110.0	68.0	110.0	68.0	0.0	0.0
+a005	initial	Static challenge start 1	2018-01-01 09:25:30	108.0	68.0	17.6	1.0	0.93	measurements_auscultatory/a005/a005.initial.Static_challenge_start_1.tsv	1	108.0	68.0	108.0	68.0	0.0	0.0
+a005	initial	Static challenge start 2	2018-01-01 09:27:20	104.0	65.5	17.8	1.0	0.9840000000000001	measurements_auscultatory/a005/a005.initial.Static_challenge_start_2.tsv	1	106.0	65.0	102.0	66.0	4.0	1.0
+a005	initial	Static challenge start 3	2018-01-01 09:29:24	110.0	68.0	18.3	1.0	0.971	measurements_auscultatory/a005/a005.initial.Static_challenge_start_3.tsv	1	110.0	68.0	110.0	68.0	0.0	0.0
+a005	initial	Exercise challenge start 1	2018-01-01 09:34:54	131.5	50.0	20.5	1.0	0.997	measurements_auscultatory/a005/a005.initial.Exercise_challenge_start_1.tsv	1	133.0	54.0	130.0	46.0	3.0	8.0
+a005	initial	Exercise challenge start 2	2018-01-01 09:40:22	115.5	50.0	20.7	1.0	0.976	measurements_auscultatory/a005/a005.initial.Exercise_challenge_start_2.tsv	1	117.0	48.0	114.0	52.0	3.0	4.0
+a005	return	Temporal challenge start 1	2018-01-02 14:38:34	115.0	71.0	17.8	1.0	0.9490000000000001	measurements_auscultatory/a005/a005.return.Temporal_challenge_start_1.tsv	1	116.0	70.0	114.0	72.0	2.0	2.0
+a005	return	Temporal challenge start 2	2018-01-02 14:40:13	109.0	71.0	17.6	1.0	0.9059999999999999	measurements_auscultatory/a005/a005.return.Temporal_challenge_start_2.tsv	1	108.0	72.0	110.0	70.0	2.0	2.0
+a005	return	Temporal challenge start 3	2018-01-02 14:41:54	121.5	74.0	17.5	1.0	0.945	measurements_auscultatory/a005/a005.return.Temporal_challenge_start_3.tsv	1	121.0	74.0	122.0	74.0	1.0	0.0

@@ -1,0 +1,309 @@
+pid	phase	measurement	date_time	sbp	dbp	duration	pressure_quality	optical_quality	waveform_file_path	waveforms_generated
+o000	initial	Sitting arm down	2018-01-01 11:10:58	138.0	104.0	30.0	1.0	0.431	measurements_oscillometric/o000/o000.initial.Sitting_arm_down.tsv	1
+o000	initial	Sitting arm lap	2018-01-01 11:13:10	140.0	92.0	30.0	0.0	0.467	measurements_oscillometric/o000/o000.initial.Sitting_arm_lap.tsv	1
+o000	initial	Sitting arm up	2018-01-01 11:16:41	138.0	90.0	30.0	0.74	0.47100000000000003	measurements_oscillometric/o000/o000.initial.Sitting_arm_up.tsv	1
+o000	initial	Supine 1	2018-01-01 11:23:10	137.0	96.0	30.0	0.6859999999999999	0.943	measurements_oscillometric/o000/o000.initial.Supine_1.tsv	1
+o000	initial	Supine 2	2018-01-01 11:24:51	134.0	90.0	30.0	0.821	0.948	measurements_oscillometric/o000/o000.initial.Supine_2.tsv	1
+o000	initial	Standing arm down	2018-01-01 11:32:32	134.0	101.0	30.0	0.0	0.16399999999999998	measurements_oscillometric/o000/o000.initial.Standing_arm_down.tsv	1
+o000	initial	Standing arm up	2018-01-01 11:34:09	139.0	101.0	30.0	0.0	0.639	measurements_oscillometric/o000/o000.initial.Standing_arm_up.tsv	1
+o000	initial	Walking	2018-01-01 11:37:38	158.0	104.0	30.0	0.18	0.498	measurements_oscillometric/o000/o000.initial.Walking.tsv	1
+o000	initial	Running	2018-01-01 11:40:34	179.0	100.0	30.0	0.0	0.395	measurements_oscillometric/o000/o000.initial.Running.tsv	1
+o000	initial	Cool down 1	2018-01-01 11:44:27	129.0	92.0	30.0	0.0	0.544	measurements_oscillometric/o000/o000.initial.Cool_down_1.tsv	1
+o000	initial	Cool down 2	2018-01-01 11:47:21	139.0	101.0	30.0	0.0	0.423	measurements_oscillometric/o000/o000.initial.Cool_down_2.tsv	1
+o000	ambulatory	measurement 23	2018-01-01 12:17:45			15.0	0.0	0.851	measurements_oscillometric/o000/o000.ambulatory.measurement_23.tsv	1
+o000	ambulatory	measurement 25	2018-01-01 12:47:27	141.0	88.0	15.0	0.92	0.83	measurements_oscillometric/o000/o000.ambulatory.measurement_25.tsv	1
+o000	ambulatory	measurement 27	2018-01-01 13:17:30	139.0	93.0	15.0	0.0	0.8859999999999999	measurements_oscillometric/o000/o000.ambulatory.measurement_27.tsv	1
+o000	ambulatory	measurement 28	2018-01-01 13:46:55			15.0	0.0	0.0	measurements_oscillometric/o000/o000.ambulatory.measurement_28.tsv	1
+o000	ambulatory	measurement 30	2018-01-01 14:17:10			15.0	0.0	0.0	measurements_oscillometric/o000/o000.ambulatory.measurement_30.tsv	1
+o000	ambulatory	measurement 33	2018-01-01 14:46:03	144.0	92.0	15.0	0.0	0.0	measurements_oscillometric/o000/o000.ambulatory.measurement_33.tsv	1
+o000	ambulatory	measurement 35	2018-01-01 15:18:35	148.0	108.0	15.0	0.7290000000000001	0.489	measurements_oscillometric/o000/o000.ambulatory.measurement_35.tsv	1
+o000	ambulatory	measurement 37	2018-01-01 15:47:39	150.0	78.0	15.0	0.9470000000000001	0.995	measurements_oscillometric/o000/o000.ambulatory.measurement_37.tsv	1
+o000	ambulatory	measurement 38	2018-01-01 16:17:26	144.0	65.0	15.0	0.0	0.93	measurements_oscillometric/o000/o000.ambulatory.measurement_38.tsv	1
+o000	ambulatory	measurement 39	2018-01-01 16:47:53	152.0	71.0	15.0	0.924	0.963	measurements_oscillometric/o000/o000.ambulatory.measurement_39.tsv	1
+o000	ambulatory	measurement 40	2018-01-01 17:17:28	134.0	84.0	15.0	0.99	0.963	measurements_oscillometric/o000/o000.ambulatory.measurement_40.tsv	1
+o000	ambulatory	measurement 41	2018-01-01 17:47:31	116.0	80.0	15.0	0.7440000000000001	0.895	measurements_oscillometric/o000/o000.ambulatory.measurement_41.tsv	1
+o000	ambulatory	measurement 42	2018-01-01 18:16:37	124.0	87.0	15.0	0.0	0.955	measurements_oscillometric/o000/o000.ambulatory.measurement_42.tsv	1
+o000	ambulatory	measurement 43	2018-01-01 18:47:24	147.0	100.0	15.0	0.6579999999999999	0.0	measurements_oscillometric/o000/o000.ambulatory.measurement_43.tsv	1
+o000	ambulatory	measurement 44	2018-01-01 19:18:38	133.0	84.0	15.0	0.897	1.0	measurements_oscillometric/o000/o000.ambulatory.measurement_44.tsv	1
+o000	ambulatory	measurement 45	2018-01-01 19:47:29	137.0	98.0	15.0	0.0	0.17300000000000001	measurements_oscillometric/o000/o000.ambulatory.measurement_45.tsv	1
+o000	ambulatory	measurement 46	2018-01-01 20:17:53			15.0	0.38	0.38799999999999996	measurements_oscillometric/o000/o000.ambulatory.measurement_46.tsv	1
+o000	ambulatory	measurement 48	2018-01-01 21:17:36			15.0	0.0	0.0	measurements_oscillometric/o000/o000.ambulatory.measurement_48.tsv	1
+o000	ambulatory	measurement 50	2018-01-01 22:18:43	143.0	69.0	15.0	0.326	0.9009999999999999	measurements_oscillometric/o000/o000.ambulatory.measurement_50.tsv	1
+o000	ambulatory	measurement 52	2018-01-01 23:17:22	101.0	54.0	15.0	0.653	1.0	measurements_oscillometric/o000/o000.ambulatory.measurement_52.tsv	1
+o000	ambulatory	measurement 53	2018-01-02 00:17:30			15.0	0.0	0.9470000000000001	measurements_oscillometric/o000/o000.ambulatory.measurement_53.tsv	1
+o000	ambulatory	measurement 55	2018-01-02 01:17:28	149.0	86.0	15.0	0.0	0.972	measurements_oscillometric/o000/o000.ambulatory.measurement_55.tsv	1
+o000	ambulatory	measurement 56	2018-01-02 02:17:17			15.0	0.0	0.98	measurements_oscillometric/o000/o000.ambulatory.measurement_56.tsv	1
+o000	ambulatory	measurement 58	2018-01-02 03:16:53	144.0	87.0	15.0	0.0	0.802	measurements_oscillometric/o000/o000.ambulatory.measurement_58.tsv	1
+o000	ambulatory	measurement 59	2018-01-02 04:16:59	157.0	85.0	15.0	0.289	0.9229999999999999	measurements_oscillometric/o000/o000.ambulatory.measurement_59.tsv	1
+o000	ambulatory	measurement 60	2018-01-02 05:17:01			15.0	0.0	0.9309999999999999	measurements_oscillometric/o000/o000.ambulatory.measurement_60.tsv	1
+o000	ambulatory	measurement 63	2018-01-02 06:15:15	143.0	106.0	15.0	0.0	0.95	measurements_oscillometric/o000/o000.ambulatory.measurement_63.tsv	1
+o000	ambulatory	measurement 64	2018-01-02 07:17:15	123.0	95.0	15.0	0.0	0.59	measurements_oscillometric/o000/o000.ambulatory.measurement_64.tsv	1
+o000	ambulatory	measurement 66	2018-01-02 08:16:44	126.0	92.0	15.0	0.0	0.9640000000000001	measurements_oscillometric/o000/o000.ambulatory.measurement_66.tsv	1
+o000	ambulatory	measurement 67	2018-01-02 08:47:12	121.0	92.0	15.0	0.0	0.9620000000000001	measurements_oscillometric/o000/o000.ambulatory.measurement_67.tsv	1
+o000	ambulatory	measurement 68	2018-01-02 09:17:23	127.0	91.0	15.0	0.0	0.777	measurements_oscillometric/o000/o000.ambulatory.measurement_68.tsv	1
+o000	ambulatory	measurement 70	2018-01-02 09:45:47	150.0	110.0	15.0	0.0	0.423	measurements_oscillometric/o000/o000.ambulatory.measurement_70.tsv	1
+o000	ambulatory	measurement 71	2018-01-02 10:17:23	125.0	95.0	15.0	0.0	0.934	measurements_oscillometric/o000/o000.ambulatory.measurement_71.tsv	1
+o000	ambulatory	measurement 73	2018-01-02 10:46:28	154.0	85.0	15.0	0.0	0.863	measurements_oscillometric/o000/o000.ambulatory.measurement_73.tsv	1
+o000	ambulatory	measurement 74	2018-01-02 11:17:07	125.0	102.0	15.0	0.0	1.0	measurements_oscillometric/o000/o000.ambulatory.measurement_74.tsv	1
+o000	ambulatory	measurement 75	2018-01-02 11:47:28	125.0	88.0	15.0	0.0	0.0	measurements_oscillometric/o000/o000.ambulatory.measurement_75.tsv	1
+o000	ambulatory	measurement 77	2018-01-02 12:17:23	133.0	97.0	15.0	0.0	0.9790000000000001	measurements_oscillometric/o000/o000.ambulatory.measurement_77.tsv	1
+o000	ambulatory	measurement 79	2018-01-02 12:47:48	113.0	92.0	15.0	0.0	0.0	measurements_oscillometric/o000/o000.ambulatory.measurement_79.tsv	1
+o000	ambulatory	measurement 80	2018-01-02 13:16:23			15.0	0.0	0.831	measurements_oscillometric/o000/o000.ambulatory.measurement_80.tsv	1
+o000	ambulatory	measurement 83	2018-01-02 13:47:56	140.0	87.0	15.0	0.0	0.82	measurements_oscillometric/o000/o000.ambulatory.measurement_83.tsv	1
+o000	ambulatory	measurement 84	2018-01-02 14:17:25	142.0	96.0	15.0	1.0	0.998	measurements_oscillometric/o000/o000.ambulatory.measurement_84.tsv	1
+o000	return	Signal check	2018-01-02 14:27:38	137.0	92.0	30.0	0.0	0.095	measurements_oscillometric/o000/o000.return.Signal_check.tsv	1
+o000	return	Sitting arm down	2018-01-02 14:29:06	132.0	94.0	30.0	0.618	0.131	measurements_oscillometric/o000/o000.return.Sitting_arm_down.tsv	1
+o000	return	Sitting arm lap	2018-01-02 14:30:44	135.0	95.0	30.0	0.0	0.18100000000000002	measurements_oscillometric/o000/o000.return.Sitting_arm_lap.tsv	1
+o000	return	Sitting arm up	2018-01-02 14:32:31	138.0	96.0	30.0	0.0	0.419	measurements_oscillometric/o000/o000.return.Sitting_arm_up.tsv	1
+o001	initial	Sitting arm down	2018-01-01 10:52:59	107.0	69.0	30.0	1.0	0.868	measurements_oscillometric/o001/o001.initial.Sitting_arm_down.tsv	1
+o001	initial	Sitting arm lap	2018-01-01 10:54:52	99.0	71.0	30.0	1.0	0.847	measurements_oscillometric/o001/o001.initial.Sitting_arm_lap.tsv	1
+o001	initial	Sitting arm up	2018-01-01 11:02:08	106.0	76.0	30.0	0.431	0.848	measurements_oscillometric/o001/o001.initial.Sitting_arm_up.tsv	1
+o001	initial	Supine 1	2018-01-01 11:08:33	102.0	66.0	30.0	1.0	0.996	measurements_oscillometric/o001/o001.initial.Supine_1.tsv	1
+o001	initial	Supine 2	2018-01-01 11:10:28	101.0	68.0	30.0	1.0	0.973	measurements_oscillometric/o001/o001.initial.Supine_2.tsv	1
+o001	initial	Standing arm down	2018-01-01 11:16:39	114.0	81.0	30.0	0.848	0.7979999999999999	measurements_oscillometric/o001/o001.initial.Standing_arm_down.tsv	1
+o001	initial	Standing arm up	2018-01-01 11:18:31	118.0	87.0	30.0	0.47100000000000003	0.809	measurements_oscillometric/o001/o001.initial.Standing_arm_up.tsv	1
+o001	initial	Walking	2018-01-01 11:22:44	123.0	77.0	30.0	0.575	0.941	measurements_oscillometric/o001/o001.initial.Walking.tsv	1
+o001	initial	Running	2018-01-01 11:25:58	148.0	83.0	30.0	0.0	0.376	measurements_oscillometric/o001/o001.initial.Running.tsv	1
+o001	initial	Cool down 1	2018-01-01 11:30:06	123.0	73.0	30.0	0.0	0.563	measurements_oscillometric/o001/o001.initial.Cool_down_1.tsv	1
+o001	initial	Cool down 2	2018-01-01 11:33:55	116.0	77.0	30.0	0.741	0.9009999999999999	measurements_oscillometric/o001/o001.initial.Cool_down_2.tsv	1
+o001	ambulatory	measurement 19	2018-01-01 11:51:28	109.0	79.0	15.0	0.741	0.841	measurements_oscillometric/o001/o001.ambulatory.measurement_19.tsv	1
+o001	ambulatory	measurement 20	2018-01-01 12:21:44	104.0	73.0	15.0	1.0	0.955	measurements_oscillometric/o001/o001.ambulatory.measurement_20.tsv	1
+o001	ambulatory	measurement 21	2018-01-01 12:51:40	102.0	74.0	15.0	1.0	0.807	measurements_oscillometric/o001/o001.ambulatory.measurement_21.tsv	1
+o001	ambulatory	measurement 22	2018-01-01 13:21:34	110.0	74.0	15.0	0.813	0.983	measurements_oscillometric/o001/o001.ambulatory.measurement_22.tsv	1
+o001	ambulatory	measurement 23	2018-01-01 13:51:59	110.0	74.0	15.0	0.0	0.384	measurements_oscillometric/o001/o001.ambulatory.measurement_23.tsv	1
+o001	ambulatory	measurement 25	2018-01-01 14:51:12	81.0	57.0	15.0	0.547	0.872	measurements_oscillometric/o001/o001.ambulatory.measurement_25.tsv	1
+o001	ambulatory	measurement 26	2018-01-01 15:21:27	85.0	61.0	15.0	0.914	0.828	measurements_oscillometric/o001/o001.ambulatory.measurement_26.tsv	1
+o001	ambulatory	measurement 27	2018-01-01 15:52:13	88.0	58.0	15.0	1.0	0.966	measurements_oscillometric/o001/o001.ambulatory.measurement_27.tsv	1
+o001	ambulatory	measurement 28	2018-01-01 16:21:33	92.0	61.0	15.0	0.922	0.98	measurements_oscillometric/o001/o001.ambulatory.measurement_28.tsv	1
+o001	ambulatory	measurement 29	2018-01-01 16:51:31	88.0	58.0	15.0	1.0	1.0	measurements_oscillometric/o001/o001.ambulatory.measurement_29.tsv	1
+o001	ambulatory	measurement 30	2018-01-01 17:21:37	93.0	59.0	15.0	1.0	0.9570000000000001	measurements_oscillometric/o001/o001.ambulatory.measurement_30.tsv	1
+o001	ambulatory	measurement 31	2018-01-01 17:51:34	105.0	76.0	15.0	0.0	0.763	measurements_oscillometric/o001/o001.ambulatory.measurement_31.tsv	1
+o001	ambulatory	measurement 32	2018-01-01 18:21:29	105.0	76.0	15.0	0.0	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_32.tsv	1
+o001	ambulatory	measurement 36	2018-01-01 19:21:19	100.0	67.0	15.0	0.0	0.929	measurements_oscillometric/o001/o001.ambulatory.measurement_36.tsv	1
+o001	ambulatory	measurement 37	2018-01-01 19:51:24	120.0	82.0	15.0	1.0	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_37.tsv	1
+o001	ambulatory	measurement 39	2018-01-01 21:20:47	109.0	89.0	15.0	0.498	0.62	measurements_oscillometric/o001/o001.ambulatory.measurement_39.tsv	1
+o001	ambulatory	measurement 40	2018-01-01 22:21:45	113.0	77.0	15.0	0.8320000000000001	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_40.tsv	1
+o001	ambulatory	measurement 41	2018-01-01 23:21:36	118.0	88.0	15.0	0.0	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_41.tsv	1
+o001	ambulatory	measurement 42	2018-01-02 00:20:30	100.0	68.0	15.0	1.0	1.0	measurements_oscillometric/o001/o001.ambulatory.measurement_42.tsv	1
+o001	ambulatory	measurement 43	2018-01-02 01:19:17	98.0	62.0	15.0	0.8270000000000001	0.983	measurements_oscillometric/o001/o001.ambulatory.measurement_43.tsv	1
+o001	ambulatory	measurement 44	2018-01-02 02:20:04	100.0	66.0	15.0	1.0	0.975	measurements_oscillometric/o001/o001.ambulatory.measurement_44.tsv	1
+o001	ambulatory	measurement 45	2018-01-02 03:21:10	107.0	87.0	15.0	0.922	0.38299999999999995	measurements_oscillometric/o001/o001.ambulatory.measurement_45.tsv	1
+o001	ambulatory	measurement 46	2018-01-02 04:21:30	108.0	65.0	15.0	0.414	0.9690000000000001	measurements_oscillometric/o001/o001.ambulatory.measurement_46.tsv	1
+o001	ambulatory	measurement 47	2018-01-02 05:21:38	109.0	72.0	15.0	0.9259999999999999	0.91	measurements_oscillometric/o001/o001.ambulatory.measurement_47.tsv	1
+o001	ambulatory	measurement 48	2018-01-02 06:21:41	79.0	48.0	15.0	0.9940000000000001	0.9740000000000001	measurements_oscillometric/o001/o001.ambulatory.measurement_48.tsv	1
+o001	ambulatory	measurement 49	2018-01-02 07:20:59	93.0	60.0	15.0	0.83	0.978	measurements_oscillometric/o001/o001.ambulatory.measurement_49.tsv	1
+o001	ambulatory	measurement 50	2018-01-02 08:22:17	95.0	68.0	15.0	0.9470000000000001	0.987	measurements_oscillometric/o001/o001.ambulatory.measurement_50.tsv	1
+o001	ambulatory	measurement 51	2018-01-02 08:51:36	90.0	54.0	15.0	1.0	0.8909999999999999	measurements_oscillometric/o001/o001.ambulatory.measurement_51.tsv	1
+o001	ambulatory	measurement 52	2018-01-02 09:21:56			15.0	0.0	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_52.tsv	1
+o001	ambulatory	measurement 54	2018-01-02 09:51:23	110.0	79.0	15.0	0.68	0.857	measurements_oscillometric/o001/o001.ambulatory.measurement_54.tsv	1
+o001	ambulatory	measurement 55	2018-01-02 10:21:20	125.0	81.0	15.0	0.0	0.6970000000000001	measurements_oscillometric/o001/o001.ambulatory.measurement_55.tsv	1
+o001	ambulatory	measurement 56	2018-01-02 10:51:29	122.0	78.0	15.0	0.0	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_56.tsv	1
+o001	ambulatory	measurement 57	2018-01-02 11:21:01	118.0	80.0	15.0	0.0	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_57.tsv	1
+o001	ambulatory	measurement 58	2018-01-02 11:51:36			15.0	0.0	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_58.tsv	1
+o001	ambulatory	measurement 63	2018-01-02 12:51:30	101.0	74.0	15.0	0.927	0.9259999999999999	measurements_oscillometric/o001/o001.ambulatory.measurement_63.tsv	1
+o001	ambulatory	measurement 64	2018-01-02 13:21:17	98.0	66.0	15.0	0.466	0.868	measurements_oscillometric/o001/o001.ambulatory.measurement_64.tsv	1
+o001	ambulatory	measurement 66	2018-01-02 13:51:13	100.0	65.0	15.0	0.0	0.0	measurements_oscillometric/o001/o001.ambulatory.measurement_66.tsv	1
+o001	ambulatory	measurement 67	2018-01-02 14:21:48			15.0	0.0	0.902	measurements_oscillometric/o001/o001.ambulatory.measurement_67.tsv	1
+o001	ambulatory	measurement 70	2018-01-02 14:52:08			15.0	0.214	0.9540000000000001	measurements_oscillometric/o001/o001.ambulatory.measurement_70.tsv	1
+o001	return	Signal check	2018-01-02 15:08:36	115.0	77.0	30.0	0.0	0.027999999999999997	measurements_oscillometric/o001/o001.return.Signal_check.tsv	1
+o001	return	Sitting arm down	2018-01-02 15:10:25	109.0	73.0	30.0	0.0	0.212	measurements_oscillometric/o001/o001.return.Sitting_arm_down.tsv	1
+o001	return	Sitting arm lap	2018-01-02 15:12:10	94.0	74.0	30.0	0.0	0.929	measurements_oscillometric/o001/o001.return.Sitting_arm_lap.tsv	1
+o001	return	Sitting arm up	2018-01-02 15:13:49	104.0	74.0	30.0	0.0	0.85	measurements_oscillometric/o001/o001.return.Sitting_arm_up.tsv	1
+o002	ambulatory	measurement 16	2018-01-01 10:48:49			15.0	0.0	0.021	measurements_oscillometric/o002/o002.ambulatory.measurement_16.tsv	1
+o002	ambulatory	measurement 20	2018-01-01 11:50:08	130.0	84.0	15.0	1.0	0.518	measurements_oscillometric/o002/o002.ambulatory.measurement_20.tsv	1
+o002	ambulatory	measurement 21	2018-01-01 12:19:11			15.0	1.0	0.919	measurements_oscillometric/o002/o002.ambulatory.measurement_21.tsv	1
+o002	ambulatory	measurement 23	2018-01-01 12:50:05	164.0	99.0	15.0	0.0	0.385	measurements_oscillometric/o002/o002.ambulatory.measurement_23.tsv	1
+o002	ambulatory	measurement 24	2018-01-01 13:18:56	173.0	112.0	15.0	0.579	0.998	measurements_oscillometric/o002/o002.ambulatory.measurement_24.tsv	1
+o002	ambulatory	measurement 26	2018-01-01 13:50:36	134.0	90.0	15.0	1.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_26.tsv	1
+o002	ambulatory	measurement 27	2018-01-01 14:19:12			15.0	0.7979999999999999	0.531	measurements_oscillometric/o002/o002.ambulatory.measurement_27.tsv	1
+o002	ambulatory	measurement 29	2018-01-01 14:50:35			15.0	0.922	0.8240000000000001	measurements_oscillometric/o002/o002.ambulatory.measurement_29.tsv	1
+o002	ambulatory	measurement 31	2018-01-01 15:19:58	146.0	88.0	15.0	1.0	0.22699999999999998	measurements_oscillometric/o002/o002.ambulatory.measurement_31.tsv	1
+o002	ambulatory	measurement 32	2018-01-01 15:49:52	139.0	85.0	15.0	1.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_32.tsv	1
+o002	ambulatory	measurement 33	2018-01-01 16:20:14	145.0	89.0	15.0	1.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_33.tsv	1
+o002	ambulatory	measurement 34	2018-01-01 16:50:10	144.0	85.0	15.0	1.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_34.tsv	1
+o002	ambulatory	measurement 35	2018-01-01 17:20:04	138.0	86.0	15.0	1.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_35.tsv	1
+o002	ambulatory	measurement 36	2018-01-01 17:50:04	148.0	96.0	15.0	1.0	0.20600000000000002	measurements_oscillometric/o002/o002.ambulatory.measurement_36.tsv	1
+o002	ambulatory	measurement 37	2018-01-01 18:19:42	115.0	70.0	15.0	0.726	0.735	measurements_oscillometric/o002/o002.ambulatory.measurement_37.tsv	1
+o002	ambulatory	measurement 39	2018-01-01 18:50:00	128.0	80.0	15.0	1.0	0.7559999999999999	measurements_oscillometric/o002/o002.ambulatory.measurement_39.tsv	1
+o002	ambulatory	measurement 40	2018-01-01 19:19:54	145.0	86.0	15.0	1.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_40.tsv	1
+o002	ambulatory	measurement 41	2018-01-01 19:49:53	148.0	90.0	15.0	1.0	0.033	measurements_oscillometric/o002/o002.ambulatory.measurement_41.tsv	1
+o002	ambulatory	measurement 42	2018-01-01 20:19:57	142.0	91.0	15.0	1.0	0.049	measurements_oscillometric/o002/o002.ambulatory.measurement_42.tsv	1
+o002	ambulatory	measurement 43	2018-01-01 21:20:04	138.0	81.0	15.0	0.82	0.204	measurements_oscillometric/o002/o002.ambulatory.measurement_43.tsv	1
+o002	ambulatory	measurement 44	2018-01-01 22:19:17	118.0	87.0	15.0	1.0	0.948	measurements_oscillometric/o002/o002.ambulatory.measurement_44.tsv	1
+o002	ambulatory	measurement 45	2018-01-01 23:20:05	121.0	84.0	15.0	0.91	0.9840000000000001	measurements_oscillometric/o002/o002.ambulatory.measurement_45.tsv	1
+o002	ambulatory	measurement 46	2018-01-02 00:20:10	113.0	72.0	15.0	1.0	1.0	measurements_oscillometric/o002/o002.ambulatory.measurement_46.tsv	1
+o002	ambulatory	measurement 48	2018-01-02 02:19:18			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_48.tsv	1
+o002	ambulatory	measurement 64	2018-01-02 09:18:43			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_64.tsv	1
+o002	ambulatory	measurement 66	2018-01-02 09:49:09			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_66.tsv	1
+o002	ambulatory	measurement 70	2018-01-02 10:49:21			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_70.tsv	1
+o002	ambulatory	measurement 72	2018-01-02 11:19:19			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_72.tsv	1
+o002	ambulatory	measurement 76	2018-01-02 12:18:56			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_76.tsv	1
+o002	ambulatory	measurement 80	2018-01-02 13:18:54			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_80.tsv	1
+o002	ambulatory	measurement 82	2018-01-02 13:48:46			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_82.tsv	1
+o002	ambulatory	measurement 85	2018-01-02 14:49:03			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_85.tsv	1
+o002	ambulatory	measurement 87	2018-01-02 15:20:03			15.0	0.0	0.0	measurements_oscillometric/o002/o002.ambulatory.measurement_87.tsv	1
+o003	initial	Sitting arm down	2018-01-01 09:30:42	132.0	92.0	30.0	0.968	0.0	measurements_oscillometric/o003/o003.initial.Sitting_arm_down.tsv	1
+o003	initial	Sitting arm lap	2018-01-01 09:32:51	132.0	95.0	30.0	1.0	0.381	measurements_oscillometric/o003/o003.initial.Sitting_arm_lap.tsv	1
+o003	initial	Sitting arm up	2018-01-01 09:34:48	136.0	91.0	30.0	0.845	0.88	measurements_oscillometric/o003/o003.initial.Sitting_arm_up.tsv	1
+o003	initial	Supine 1	2018-01-01 09:40:19	131.0	78.0	30.0	1.0	0.99	measurements_oscillometric/o003/o003.initial.Supine_1.tsv	1
+o003	initial	Supine 2	2018-01-01 09:41:54	131.0	77.0	30.0	1.0	0.995	measurements_oscillometric/o003/o003.initial.Supine_2.tsv	1
+o003	initial	Standing arm down	2018-01-01 09:47:35	130.0	87.0	30.0	0.948	0.0	measurements_oscillometric/o003/o003.initial.Standing_arm_down.tsv	1
+o003	initial	Standing arm up	2018-01-01 09:49:03	141.0	94.0	30.0	0.6759999999999999	0.9540000000000001	measurements_oscillometric/o003/o003.initial.Standing_arm_up.tsv	1
+o003	initial	Walking	2018-01-01 09:52:44	154.0	88.0	30.0	0.851	0.0	measurements_oscillometric/o003/o003.initial.Walking.tsv	1
+o003	initial	Running	2018-01-01 09:56:06	169.0	88.0	30.0	0.754	0.0	measurements_oscillometric/o003/o003.initial.Running.tsv	1
+o003	initial	Cool down 1	2018-01-01 09:59:54	141.0	86.0	30.0	0.5589999999999999	0.48200000000000004	measurements_oscillometric/o003/o003.initial.Cool_down_1.tsv	1
+o003	initial	Cool down 2	2018-01-01 10:03:39	133.0	87.0	30.0	0.6579999999999999	0.32	measurements_oscillometric/o003/o003.initial.Cool_down_2.tsv	1
+o003	ambulatory	measurement 18	2018-01-01 10:30:14	155.0	101.0	15.0	0.51	0.226	measurements_oscillometric/o003/o003.ambulatory.measurement_18.tsv	1
+o003	ambulatory	measurement 19	2018-01-01 11:00:07	135.0	88.0	15.0	1.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_19.tsv	1
+o003	ambulatory	measurement 20	2018-01-01 11:28:59	129.0	89.0	15.0	0.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_20.tsv	1
+o003	ambulatory	measurement 21	2018-01-01 12:00:20	142.0	92.0	15.0	1.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_21.tsv	1
+o003	ambulatory	measurement 23	2018-01-01 12:30:22	144.0	91.0	15.0	0.958	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_23.tsv	1
+o003	ambulatory	measurement 24	2018-01-01 13:00:01	143.0	92.0	15.0	1.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_24.tsv	1
+o003	ambulatory	measurement 25	2018-01-01 13:30:32	137.0	81.0	15.0	0.9640000000000001	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_25.tsv	1
+o003	ambulatory	measurement 26	2018-01-01 14:00:16	146.0	84.0	15.0	0.995	0.574	measurements_oscillometric/o003/o003.ambulatory.measurement_26.tsv	1
+o003	ambulatory	measurement 27	2018-01-01 14:30:21	129.0	86.0	15.0	1.0	0.594	measurements_oscillometric/o003/o003.ambulatory.measurement_27.tsv	1
+o003	ambulatory	measurement 28	2018-01-01 15:00:10	125.0	87.0	15.0	1.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_28.tsv	1
+o003	ambulatory	measurement 29	2018-01-01 15:30:16	127.0	80.0	15.0	1.0	0.9309999999999999	measurements_oscillometric/o003/o003.ambulatory.measurement_29.tsv	1
+o003	ambulatory	measurement 30	2018-01-01 16:00:10	121.0	75.0	15.0	0.667	0.971	measurements_oscillometric/o003/o003.ambulatory.measurement_30.tsv	1
+o003	ambulatory	measurement 31	2018-01-01 16:30:16	123.0	75.0	15.0	1.0	0.718	measurements_oscillometric/o003/o003.ambulatory.measurement_31.tsv	1
+o003	ambulatory	measurement 32	2018-01-01 17:00:03	122.0	77.0	15.0	1.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_32.tsv	1
+o003	ambulatory	measurement 33	2018-01-01 17:30:00	125.0	73.0	15.0	1.0	0.8190000000000001	measurements_oscillometric/o003/o003.ambulatory.measurement_33.tsv	1
+o003	ambulatory	measurement 34	2018-01-01 18:00:14	129.0	82.0	15.0	1.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_34.tsv	1
+o003	ambulatory	measurement 35	2018-01-01 18:30:03	129.0	86.0	15.0	1.0	0.547	measurements_oscillometric/o003/o003.ambulatory.measurement_35.tsv	1
+o003	ambulatory	measurement 36	2018-01-01 19:00:01	132.0	84.0	15.0	0.792	0.24	measurements_oscillometric/o003/o003.ambulatory.measurement_36.tsv	1
+o003	ambulatory	measurement 37	2018-01-01 19:30:21	122.0	76.0	15.0	1.0	1.0	measurements_oscillometric/o003/o003.ambulatory.measurement_37.tsv	1
+o003	ambulatory	measurement 38	2018-01-01 20:00:02	128.0	84.0	15.0	0.993	0.823	measurements_oscillometric/o003/o003.ambulatory.measurement_38.tsv	1
+o003	ambulatory	measurement 39	2018-01-01 21:00:31	125.0	74.0	15.0	1.0	0.97	measurements_oscillometric/o003/o003.ambulatory.measurement_39.tsv	1
+o003	ambulatory	measurement 40	2018-01-01 22:00:04	118.0	73.0	15.0	0.823	0.8490000000000001	measurements_oscillometric/o003/o003.ambulatory.measurement_40.tsv	1
+o003	ambulatory	measurement 41	2018-01-01 22:58:58	103.0	58.0	15.0	0.804	0.9279999999999999	measurements_oscillometric/o003/o003.ambulatory.measurement_41.tsv	1
+o003	ambulatory	measurement 42	2018-01-01 23:59:00	107.0	55.0	15.0	1.0	0.9840000000000001	measurements_oscillometric/o003/o003.ambulatory.measurement_42.tsv	1
+o003	ambulatory	measurement 43	2018-01-02 00:59:17	103.0	59.0	15.0	0.45299999999999996	1.0	measurements_oscillometric/o003/o003.ambulatory.measurement_43.tsv	1
+o003	ambulatory	measurement 44	2018-01-02 02:00:42	107.0	61.0	15.0	0.0	0.988	measurements_oscillometric/o003/o003.ambulatory.measurement_44.tsv	1
+o003	ambulatory	measurement 45	2018-01-02 02:58:27	120.0	63.0	15.0	0.0	0.982	measurements_oscillometric/o003/o003.ambulatory.measurement_45.tsv	1
+o003	ambulatory	measurement 46	2018-01-02 03:59:32	93.0	51.0	15.0	0.9470000000000001	0.8270000000000001	measurements_oscillometric/o003/o003.ambulatory.measurement_46.tsv	1
+o003	ambulatory	measurement 47	2018-01-02 05:00:23	115.0	67.0	15.0	0.0	0.996	measurements_oscillometric/o003/o003.ambulatory.measurement_47.tsv	1
+o003	ambulatory	measurement 48	2018-01-02 05:59:25	101.0	56.0	15.0	0.722	0.9990000000000001	measurements_oscillometric/o003/o003.ambulatory.measurement_48.tsv	1
+o003	ambulatory	measurement 49	2018-01-02 07:00:17	104.0	67.0	15.0	0.0	0.9640000000000001	measurements_oscillometric/o003/o003.ambulatory.measurement_49.tsv	1
+o003	ambulatory	measurement 50	2018-01-02 08:00:01	122.0	88.0	15.0	0.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_50.tsv	1
+o003	ambulatory	measurement 51	2018-01-02 08:30:02	115.0	76.0	15.0	0.877	0.895	measurements_oscillometric/o003/o003.ambulatory.measurement_51.tsv	1
+o003	ambulatory	measurement 52	2018-01-02 09:00:01	116.0	75.0	15.0	0.985	0.9059999999999999	measurements_oscillometric/o003/o003.ambulatory.measurement_52.tsv	1
+o003	ambulatory	measurement 53	2018-01-02 09:31:41	112.0	74.0	15.0	0.753	0.986	measurements_oscillometric/o003/o003.ambulatory.measurement_53.tsv	1
+o003	ambulatory	measurement 54	2018-01-02 10:00:19	112.0	65.0	15.0	0.919	0.988	measurements_oscillometric/o003/o003.ambulatory.measurement_54.tsv	1
+o003	ambulatory	measurement 56	2018-01-02 10:29:57	129.0	87.0	15.0	0.765	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_56.tsv	1
+o003	ambulatory	measurement 57	2018-01-02 11:00:00	123.0	81.0	15.0	0.0	0.113	measurements_oscillometric/o003/o003.ambulatory.measurement_57.tsv	1
+o003	ambulatory	measurement 58	2018-01-02 11:29:43	126.0	80.0	15.0	0.539	0.65	measurements_oscillometric/o003/o003.ambulatory.measurement_58.tsv	1
+o003	ambulatory	measurement 59	2018-01-02 12:00:10	117.0	79.0	15.0	0.252	0.56	measurements_oscillometric/o003/o003.ambulatory.measurement_59.tsv	1
+o003	ambulatory	measurement 60	2018-01-02 12:30:06	123.0	81.0	15.0	1.0	0.7390000000000001	measurements_oscillometric/o003/o003.ambulatory.measurement_60.tsv	1
+o003	ambulatory	measurement 61	2018-01-02 13:00:07	129.0	92.0	15.0	0.41	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_61.tsv	1
+o003	ambulatory	measurement 62	2018-01-02 13:29:53	145.0	88.0	15.0	0.7490000000000001	0.408	measurements_oscillometric/o003/o003.ambulatory.measurement_62.tsv	1
+o003	ambulatory	measurement 64	2018-01-02 14:00:08	139.0	79.0	15.0	0.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_64.tsv	1
+o003	ambulatory	measurement 65	2018-01-02 14:30:59	130.0	84.0	15.0	0.0	0.0	measurements_oscillometric/o003/o003.ambulatory.measurement_65.tsv	1
+o003	ambulatory	measurement 66	2018-01-02 14:59:44	141.0	88.0	15.0	0.264	0.5770000000000001	measurements_oscillometric/o003/o003.ambulatory.measurement_66.tsv	1
+o003	return	Signal check	2018-01-02 15:27:45	132.0	87.0	30.0	0.0	0.0	measurements_oscillometric/o003/o003.return.Signal_check.tsv	1
+o003	return	Sitting arm lap	2018-01-02 15:29:39	130.0	86.0	30.0	0.27899999999999997	0.24	measurements_oscillometric/o003/o003.return.Sitting_arm_lap.tsv	1
+o003	return	Sitting arm up	2018-01-02 15:31:38	132.0	93.0	30.0	0.741	0.937	measurements_oscillometric/o003/o003.return.Sitting_arm_up.tsv	1
+o004	initial	Sitting arm down	2018-01-01 13:27:20	151.0	98.0	30.0	0.0	0.0	measurements_oscillometric/o004/o004.initial.Sitting_arm_down.tsv	1
+o004	initial	Sitting arm lap	2018-01-01 13:29:13	133.0	102.0	30.0	0.0	0.0	measurements_oscillometric/o004/o004.initial.Sitting_arm_lap.tsv	1
+o004	initial	Sitting arm up	2018-01-01 13:30:56	145.0	106.0	30.0	0.39	0.122	measurements_oscillometric/o004/o004.initial.Sitting_arm_up.tsv	1
+o004	initial	Supine 1	2018-01-01 13:37:53	162.0	100.0	30.0	0.0	0.221	measurements_oscillometric/o004/o004.initial.Supine_1.tsv	1
+o004	initial	Supine 2	2018-01-01 13:40:52	158.0	98.0	30.0	0.948	0.354	measurements_oscillometric/o004/o004.initial.Supine_2.tsv	1
+o004	initial	Standing arm down	2018-01-01 13:47:04	147.0	103.0	30.0	0.0	0.0	measurements_oscillometric/o004/o004.initial.Standing_arm_down.tsv	1
+o004	initial	Standing arm up	2018-01-01 13:48:58	160.0	107.0	30.0	0.032	0.14300000000000002	measurements_oscillometric/o004/o004.initial.Standing_arm_up.tsv	1
+o004	initial	Walking	2018-01-01 13:53:33	187.0	99.0	30.0	0.608	0.0	measurements_oscillometric/o004/o004.initial.Walking.tsv	1
+o004	initial	Running	2018-01-01 13:57:02	200.0	98.0	30.0	1.0	0.0	measurements_oscillometric/o004/o004.initial.Running.tsv	1
+o004	initial	Cool down 1	2018-01-01 14:02:02	162.0	106.0	30.0	0.843	0.0	measurements_oscillometric/o004/o004.initial.Cool_down_1.tsv	1
+o004	initial	Cool down 2	2018-01-01 14:07:06	159.0	107.0	30.0	1.0	0.0	measurements_oscillometric/o004/o004.initial.Cool_down_2.tsv	1
+o004	ambulatory	measurement 31	2018-01-01 14:30:44	145.0	119.0	15.0	0.812	0.0	measurements_oscillometric/o004/o004.ambulatory.measurement_31.tsv	1
+o004	ambulatory	measurement 33	2018-01-01 15:00:51	155.0	104.0	15.0	0.263	0.0	measurements_oscillometric/o004/o004.ambulatory.measurement_33.tsv	1
+o004	ambulatory	measurement 34	2018-01-01 15:31:05	151.0	86.0	15.0	0.7140000000000001	0.953	measurements_oscillometric/o004/o004.ambulatory.measurement_34.tsv	1
+o004	ambulatory	measurement 35	2018-01-01 16:00:50	127.0	71.0	15.0	0.8079999999999999	0.9620000000000001	measurements_oscillometric/o004/o004.ambulatory.measurement_35.tsv	1
+o004	ambulatory	measurement 36	2018-01-01 16:30:50	133.0	77.0	15.0	0.0	0.867	measurements_oscillometric/o004/o004.ambulatory.measurement_36.tsv	1
+o004	ambulatory	measurement 37	2018-01-01 16:58:21	118.0	71.0	15.0	0.909	0.945	measurements_oscillometric/o004/o004.ambulatory.measurement_37.tsv	1
+o004	ambulatory	measurement 39	2018-01-01 17:31:32	139.0	88.0	15.0	0.9079999999999999	0.033	measurements_oscillometric/o004/o004.ambulatory.measurement_39.tsv	1
+o004	ambulatory	measurement 40	2018-01-01 18:00:40	136.0	78.0	15.0	0.9670000000000001	0.998	measurements_oscillometric/o004/o004.ambulatory.measurement_40.tsv	1
+o004	ambulatory	measurement 41	2018-01-01 18:30:59	126.0	76.0	15.0	0.9490000000000001	0.16	measurements_oscillometric/o004/o004.ambulatory.measurement_41.tsv	1
+o004	ambulatory	measurement 42	2018-01-01 19:00:25	127.0	76.0	15.0	1.0	1.0	measurements_oscillometric/o004/o004.ambulatory.measurement_42.tsv	1
+o004	ambulatory	measurement 43	2018-01-01 19:29:51	144.0	89.0	15.0	0.971	0.9670000000000001	measurements_oscillometric/o004/o004.ambulatory.measurement_43.tsv	1
+o004	ambulatory	measurement 44	2018-01-01 20:01:31	121.0	71.0	15.0	1.0	1.0	measurements_oscillometric/o004/o004.ambulatory.measurement_44.tsv	1
+o004	ambulatory	measurement 45	2018-01-01 21:00:48	110.0	68.0	15.0	0.975	0.8340000000000001	measurements_oscillometric/o004/o004.ambulatory.measurement_45.tsv	1
+o004	ambulatory	measurement 46	2018-01-01 22:00:59	103.0	62.0	15.0	0.892	0.993	measurements_oscillometric/o004/o004.ambulatory.measurement_46.tsv	1
+o004	ambulatory	measurement 47	2018-01-01 23:00:33	131.0	78.0	15.0	0.795	1.0	measurements_oscillometric/o004/o004.ambulatory.measurement_47.tsv	1
+o004	ambulatory	measurement 48	2018-01-01 23:59:26	128.0	78.0	15.0	0.0	0.98	measurements_oscillometric/o004/o004.ambulatory.measurement_48.tsv	1
+o004	ambulatory	measurement 49	2018-01-02 01:00:05	113.0	78.0	15.0	0.883	0.963	measurements_oscillometric/o004/o004.ambulatory.measurement_49.tsv	1
+o004	ambulatory	measurement 50	2018-01-02 02:00:34	112.0	79.0	15.0	0.9940000000000001	0.9359999999999999	measurements_oscillometric/o004/o004.ambulatory.measurement_50.tsv	1
+o004	ambulatory	measurement 51	2018-01-02 03:00:40	97.0	68.0	15.0	1.0	0.98	measurements_oscillometric/o004/o004.ambulatory.measurement_51.tsv	1
+o004	ambulatory	measurement 52	2018-01-02 04:01:17	91.0	52.0	15.0	0.956	1.0	measurements_oscillometric/o004/o004.ambulatory.measurement_52.tsv	1
+o004	ambulatory	measurement 53	2018-01-02 05:00:33	98.0	62.0	15.0	1.0	0.9840000000000001	measurements_oscillometric/o004/o004.ambulatory.measurement_53.tsv	1
+o004	ambulatory	measurement 54	2018-01-02 06:00:26	107.0	76.0	15.0	1.0	0.934	measurements_oscillometric/o004/o004.ambulatory.measurement_54.tsv	1
+o004	ambulatory	measurement 55	2018-01-02 07:01:33	105.0	65.0	15.0	0.498	1.0	measurements_oscillometric/o004/o004.ambulatory.measurement_55.tsv	1
+o004	ambulatory	measurement 56	2018-01-02 08:00:17	153.0	98.0	15.0	0.9890000000000001	0.0	measurements_oscillometric/o004/o004.ambulatory.measurement_56.tsv	1
+o004	ambulatory	measurement 57	2018-01-02 08:30:23	151.0	88.0	15.0	0.523	0.0	measurements_oscillometric/o004/o004.ambulatory.measurement_57.tsv	1
+o004	ambulatory	measurement 58	2018-01-02 09:00:28			15.0	0.627	0.777	measurements_oscillometric/o004/o004.ambulatory.measurement_58.tsv	1
+o004	ambulatory	measurement 60	2018-01-02 09:30:16			15.0	0.608	0.303	measurements_oscillometric/o004/o004.ambulatory.measurement_60.tsv	1
+o004	ambulatory	measurement 62	2018-01-02 10:01:26			15.0	0.552	0.281	measurements_oscillometric/o004/o004.ambulatory.measurement_62.tsv	1
+o004	ambulatory	measurement 64	2018-01-02 10:30:34	143.0	86.0	15.0	1.0	0.0	measurements_oscillometric/o004/o004.ambulatory.measurement_64.tsv	1
+o004	ambulatory	measurement 65	2018-01-02 11:00:32	139.0	87.0	15.0	0.469	0.228	measurements_oscillometric/o004/o004.ambulatory.measurement_65.tsv	1
+o004	ambulatory	measurement 66	2018-01-02 11:29:07	140.0	84.0	15.0	0.638	0.87	measurements_oscillometric/o004/o004.ambulatory.measurement_66.tsv	1
+o004	ambulatory	measurement 70	2018-01-02 13:00:23	144.0	95.0	15.0	0.946	0.986	measurements_oscillometric/o004/o004.ambulatory.measurement_70.tsv	1
+o004	ambulatory	measurement 71	2018-01-02 13:30:51	135.0	98.0	15.0	0.848	0.33299999999999996	measurements_oscillometric/o004/o004.ambulatory.measurement_71.tsv	1
+o004	ambulatory	measurement 72	2018-01-02 14:00:30	148.0	95.0	15.0	1.0	0.99	measurements_oscillometric/o004/o004.ambulatory.measurement_72.tsv	1
+o004	ambulatory	measurement 74	2018-01-02 14:29:28	148.0	93.0	15.0	0.0	0.7609999999999999	measurements_oscillometric/o004/o004.ambulatory.measurement_74.tsv	1
+o004	ambulatory	measurement 75	2018-01-02 15:00:20	136.0	94.0	15.0	0.134	0.943	measurements_oscillometric/o004/o004.ambulatory.measurement_75.tsv	1
+o004	ambulatory	measurement 76	2018-01-02 15:29:58			15.0	0.0	0.0	measurements_oscillometric/o004/o004.ambulatory.measurement_76.tsv	1
+o004	return	Signal check	2018-01-02 15:35:21	154.0	101.0	30.0	0.0	0.275	measurements_oscillometric/o004/o004.return.Signal_check.tsv	1
+o004	return	Sitting arm lap	2018-01-02 15:37:11	155.0	98.0	30.0	0.242	0.11900000000000001	measurements_oscillometric/o004/o004.return.Sitting_arm_lap.tsv	1
+o004	return	Sitting arm up	2018-01-02 15:39:04	158.0	108.0	30.0	0.305	0.856	measurements_oscillometric/o004/o004.return.Sitting_arm_up.tsv	1
+o005	initial	Sitting arm down	2018-01-01 13:23:28	126.0	83.0	30.0	0.0	0.158	measurements_oscillometric/o005/o005.initial.Sitting_arm_down.tsv	1
+o005	initial	Sitting arm lap	2018-01-01 13:25:20	114.0	75.0	30.0	0.0	0.254	measurements_oscillometric/o005/o005.initial.Sitting_arm_lap.tsv	1
+o005	initial	Sitting arm up	2018-01-01 13:27:11	125.0	85.0	30.0	0.8220000000000001	0.684	measurements_oscillometric/o005/o005.initial.Sitting_arm_up.tsv	1
+o005	initial	Supine 1	2018-01-01 13:33:43	115.0	65.0	30.0	0.0	0.983	measurements_oscillometric/o005/o005.initial.Supine_1.tsv	1
+o005	initial	Supine 2	2018-01-01 13:35:37	113.0	67.0	30.0	0.0	1.0	measurements_oscillometric/o005/o005.initial.Supine_2.tsv	1
+o005	initial	Standing arm down	2018-01-01 13:41:29	117.0	78.0	30.0	0.41600000000000004	0.203	measurements_oscillometric/o005/o005.initial.Standing_arm_down.tsv	1
+o005	initial	Standing arm up	2018-01-01 13:43:14	126.0	81.0	30.0	0.067	0.9209999999999999	measurements_oscillometric/o005/o005.initial.Standing_arm_up.tsv	1
+o005	initial	Walking	2018-01-01 13:46:51	130.0	87.0	30.0	0.0	0.35700000000000004	measurements_oscillometric/o005/o005.initial.Walking.tsv	1
+o005	initial	Running	2018-01-01 13:51:35	126.0	78.0	30.0	0.0	0.478	measurements_oscillometric/o005/o005.initial.Running.tsv	1
+o005	initial	Cool down 1	2018-01-01 13:55:26	122.0	83.0	30.0	0.675	0.623	measurements_oscillometric/o005/o005.initial.Cool_down_1.tsv	1
+o005	initial	Cool down 2	2018-01-01 13:59:03	130.0	81.0	30.0	0.0	0.491	measurements_oscillometric/o005/o005.initial.Cool_down_2.tsv	1
+o005	ambulatory	measurement 34	2018-01-01 14:18:31	126.0	79.0	15.0	0.0	0.975	measurements_oscillometric/o005/o005.ambulatory.measurement_34.tsv	1
+o005	ambulatory	measurement 35	2018-01-01 14:49:23	125.0	66.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_35.tsv	1
+o005	ambulatory	measurement 36	2018-01-01 15:19:05	146.0	79.0	15.0	0.0	0.6509999999999999	measurements_oscillometric/o005/o005.ambulatory.measurement_36.tsv	1
+o005	ambulatory	measurement 37	2018-01-01 15:49:40	111.0	62.0	15.0	0.301	0.992	measurements_oscillometric/o005/o005.ambulatory.measurement_37.tsv	1
+o005	ambulatory	measurement 38	2018-01-01 16:18:28	107.0	65.0	15.0	0.9109999999999999	0.991	measurements_oscillometric/o005/o005.ambulatory.measurement_38.tsv	1
+o005	ambulatory	measurement 39	2018-01-01 16:48:41	119.0	79.0	15.0	0.56	0.064	measurements_oscillometric/o005/o005.ambulatory.measurement_39.tsv	1
+o005	ambulatory	measurement 40	2018-01-01 17:18:27	130.0	83.0	15.0	0.0	0.337	measurements_oscillometric/o005/o005.ambulatory.measurement_40.tsv	1
+o005	ambulatory	measurement 41	2018-01-01 17:48:01	141.0	92.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_41.tsv	1
+o005	ambulatory	measurement 42	2018-01-01 18:19:23	139.0	75.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_42.tsv	1
+o005	ambulatory	measurement 43	2018-01-01 18:48:26	120.0	73.0	15.0	0.0	0.836	measurements_oscillometric/o005/o005.ambulatory.measurement_43.tsv	1
+o005	ambulatory	measurement 44	2018-01-01 19:18:13	119.0	71.0	15.0	1.0	0.84	measurements_oscillometric/o005/o005.ambulatory.measurement_44.tsv	1
+o005	ambulatory	measurement 45	2018-01-01 19:48:26	121.0	75.0	15.0	0.0	0.22899999999999998	measurements_oscillometric/o005/o005.ambulatory.measurement_45.tsv	1
+o005	ambulatory	measurement 46	2018-01-01 20:18:31	126.0	92.0	15.0	0.0	0.95	measurements_oscillometric/o005/o005.ambulatory.measurement_46.tsv	1
+o005	ambulatory	measurement 48	2018-01-01 21:18:49	124.0	80.0	15.0	0.28	0.995	measurements_oscillometric/o005/o005.ambulatory.measurement_48.tsv	1
+o005	ambulatory	measurement 49	2018-01-01 22:18:52	121.0	75.0	15.0	0.0	0.47200000000000003	measurements_oscillometric/o005/o005.ambulatory.measurement_49.tsv	1
+o005	ambulatory	measurement 50	2018-01-01 23:19:17	105.0	62.0	15.0	0.9079999999999999	1.0	measurements_oscillometric/o005/o005.ambulatory.measurement_50.tsv	1
+o005	ambulatory	measurement 51	2018-01-02 00:16:20	102.0	60.0	15.0	0.0	1.0	measurements_oscillometric/o005/o005.ambulatory.measurement_51.tsv	1
+o005	ambulatory	measurement 52	2018-01-02 01:17:13	99.0	57.0	15.0	0.879	0.9940000000000001	measurements_oscillometric/o005/o005.ambulatory.measurement_52.tsv	1
+o005	ambulatory	measurement 53	2018-01-02 02:18:58	103.0	55.0	15.0	0.672	0.991	measurements_oscillometric/o005/o005.ambulatory.measurement_53.tsv	1
+o005	ambulatory	measurement 54	2018-01-02 03:17:20	103.0	55.0	15.0	0.381	1.0	measurements_oscillometric/o005/o005.ambulatory.measurement_54.tsv	1
+o005	ambulatory	measurement 55	2018-01-02 04:19:01	105.0	59.0	15.0	0.951	1.0	measurements_oscillometric/o005/o005.ambulatory.measurement_55.tsv	1
+o005	ambulatory	measurement 56	2018-01-02 05:18:16	104.0	60.0	15.0	0.594	1.0	measurements_oscillometric/o005/o005.ambulatory.measurement_56.tsv	1
+o005	ambulatory	measurement 57	2018-01-02 06:16:32	113.0	76.0	15.0	0.359	1.0	measurements_oscillometric/o005/o005.ambulatory.measurement_57.tsv	1
+o005	ambulatory	measurement 58	2018-01-02 07:17:50	128.0	81.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_58.tsv	1
+o005	ambulatory	measurement 59	2018-01-02 08:19:17	127.0	86.0	15.0	0.0	0.484	measurements_oscillometric/o005/o005.ambulatory.measurement_59.tsv	1
+o005	ambulatory	measurement 60	2018-01-02 08:48:26	136.0	91.0	15.0	0.0	0.889	measurements_oscillometric/o005/o005.ambulatory.measurement_60.tsv	1
+o005	ambulatory	measurement 61	2018-01-02 09:18:31	129.0	85.0	15.0	0.0	0.935	measurements_oscillometric/o005/o005.ambulatory.measurement_61.tsv	1
+o005	ambulatory	measurement 62	2018-01-02 09:48:22	125.0	86.0	15.0	0.0	0.821	measurements_oscillometric/o005/o005.ambulatory.measurement_62.tsv	1
+o005	ambulatory	measurement 63	2018-01-02 10:18:29	129.0	85.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_63.tsv	1
+o005	ambulatory	measurement 64	2018-01-02 10:46:49			15.0	0.278	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_64.tsv	1
+o005	ambulatory	measurement 66	2018-01-02 11:18:32	133.0	86.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_66.tsv	1
+o005	ambulatory	measurement 67	2018-01-02 11:48:56			15.0	0.0	0.7090000000000001	measurements_oscillometric/o005/o005.ambulatory.measurement_67.tsv	1
+o005	ambulatory	measurement 69	2018-01-02 12:18:37	123.0	72.0	15.0	0.0	0.787	measurements_oscillometric/o005/o005.ambulatory.measurement_69.tsv	1
+o005	ambulatory	measurement 71	2018-01-02 12:47:34	140.0	76.0	15.0	0.475	0.977	measurements_oscillometric/o005/o005.ambulatory.measurement_71.tsv	1
+o005	ambulatory	measurement 72	2018-01-02 13:18:58	154.0	97.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_72.tsv	1
+o005	ambulatory	measurement 73	2018-01-02 13:48:48	130.0	85.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_73.tsv	1
+o005	ambulatory	measurement 74	2018-01-02 14:18:32	129.0	83.0	15.0	0.8640000000000001	0.9990000000000001	measurements_oscillometric/o005/o005.ambulatory.measurement_74.tsv	1
+o005	ambulatory	measurement 75	2018-01-02 14:48:17	141.0	83.0	15.0	0.0	0.0	measurements_oscillometric/o005/o005.ambulatory.measurement_75.tsv	1
+o005	ambulatory	measurement 76	2018-01-02 15:17:30	119.0	86.0	15.0	0.0	0.861	measurements_oscillometric/o005/o005.ambulatory.measurement_76.tsv	1
+o005	ambulatory	measurement 77	2018-01-02 15:47:33	131.0	83.0	15.0	0.6759999999999999	0.9940000000000001	measurements_oscillometric/o005/o005.ambulatory.measurement_77.tsv	1
+o005	return	Signal check	2018-01-02 16:01:15	122.0	76.0	30.0	0.0	0.526	measurements_oscillometric/o005/o005.return.Signal_check.tsv	1
+o005	return	Sitting arm lap	2018-01-02 16:03:08	116.0	82.0	30.0	0.0	0.904	measurements_oscillometric/o005/o005.return.Sitting_arm_lap.tsv	1
+o005	return	Sitting arm up	2018-01-02 16:05:00	126.0	75.0	30.0	0.0	0.9359999999999999	measurements_oscillometric/o005/o005.return.Sitting_arm_up.tsv	1

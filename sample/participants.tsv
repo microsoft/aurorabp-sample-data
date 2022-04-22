@@ -1,0 +1,13 @@
+pid	n_meas_inlab	n_meas_ambulatory	aurora_size	fitzpatrick_scale	bp_cuff_arm	in_feature_table	age	height	weight	gender	self_report_htn	high_blood_pressure	coronary_artery_disease	diabetes	arrythmia	previous_heart_attack	previous_stroke	heart_failure	aortic_stenosis	valvular_heart_disease	other_cv_diseases	cvd_meds
+o000	15	41.0	L		R	1	33.0	68.0	200.0	M	norm	0	0	0	0	0	0	0	0	0	0	0
+o001	15	43.0	M	4	L	1	52.0	72.0	171.0	M	norm	0	0	0	0	0	0	0	0	0	0	0
+o002	0	47.0	M		R	0	46.0	62.0	190.0	F	managed	1	0	1	0	0	0	0	0	0	1	1
+o003	14	46.0	S	2	R	1	43.0	63.0	170.0	F	norm	0	0	0	0	0	0	0	0	0	0	1
+o004	14	39.0	S		R	1	49.0	66.0	154.0	M	managed	0	0	0	0	0	0	0	0	0	1	1
+o005	14	40.0	M		R	1	30.0	71.0	160.0	M	unmanaged	0	0	0	0	0	0	0	0	0	0	0
+a000	14		S	2	L	1	56.0	63.0	108.0	F	norm	0	0	0	0	0	0	0	0	0	0	0
+a001	11		S	1	L	1	51.0	66.0	125.0	F	norm	0	0	0	0	0	0	0	0	0	0	0
+a002	19		L	2	L	1	33.0	74.0	230.0	M	norm	0	0	0	0	0	0	0	0	0	0	0
+a003	20		L	1	R	0	78.0	68.0	260.0	M	managed	1	0	0	1	0	0	0	0	0	0	1
+a004	20		S	1	R	1	26.0	66.0	128.0	M	norm	0	0	1	0	0	0	0	0	0	0	0
+a005	11		M	1	L	1	49.0	66.0	142.0	F	norm	0	0	0	0	0	0	0	0	0	0	0
