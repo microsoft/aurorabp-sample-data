@@ -1,0 +1,14 @@
+# Install with "conda env create -f environment.yml"
+# Environment name can be overwritten via -n env_name
+name: aurorabp
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - matplotlib
+  - numpy
+  - scipy
+  - scikit-learn
+  - pandas
+  - seaborn
+  - notebook
