@@ -1,6 +1,6 @@
 # Aurora-BP Study Data
 
-Here, you can access the de-identified Aurora-BP datasets used in the associated publication: "A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting." <!-- TODO Add link to paper  -->
+Here, you can access the de-identified Aurora-BP datasets used in the associated publication: "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)"
 
 The publishing of these datasets as well as the characterization of multiple feature groups across a broad population and multiple settings are intended to aid future cardiovascular research. These datasets include de-identified participant information, as well as aligned and featurized sensor data. See publication for more information. Below are details describing the published dataset and access information.
 
