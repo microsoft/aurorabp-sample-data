@@ -1,6 +1,6 @@
 # Data and Protocol Details
 
-## Data files
+## Data Files
 
 Described are data used in the associated Aurora-BP Study publication "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)". See the [sample data](https://github.com/twede/aurorabp-sample-data/tree/main/sample) for a direct look at the file formats, and data file descriptions below for details.
 
