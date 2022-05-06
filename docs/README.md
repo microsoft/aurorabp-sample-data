@@ -6,6 +6,8 @@ This repo contains several tab-delimited text files containing data used in the 
 
 Full device-waveform data files are stored seperately from this repo within an Azure data lake. To gain access to these device-waveform data files, a data use application (detailed below and on the data lake landing page) must be submitted. Any researcher may submit a data use application. Requests are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification. For further information regarding data access, contact: aurorabp@microsoft.com
 
+---
+
 ## Data Use Application
 
 To access the full device-waveform data files hosted on an Azure datalake, a data use application <!-- TODO insert link to DUA --> must be completed, including:
