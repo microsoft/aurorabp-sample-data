@@ -1,19 +1,19 @@
 # Data and Protocol Details
 
-## Data Contents
+## Data files
 
-This repo contains several tab-delimited text files containing data used in the associated publication "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)": a participant information file, measurement-level data files, processed measurement waveform-level data files, and a processed measurement features data file. These data files should be sufficient for most exploratory analyses. 
+Described are data used in the associated Aurora-BP Study publication "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)". See the [sample data](https://github.com/twede/aurorabp-sample-data/tree/main/sample) for a direct look at the file formats, and data file descriptions below for details.
 
-Full device-waveform data files are stored seperately from this repo within an Azure data lake. To gain access to these device-waveform data files, a data use application (detailed below and on the data lake landing page) must be submitted. Any researcher may submit a data use application. Requests are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification. For further information regarding data access, contact: aurorabp@microsoft.com
+Complete de-identified dataset files are stored separately from this repo within an Azure data lake. To gain access, a data use application (detailed below and on the data lake landing page) must be submitted. Any researcher may submit a data use application. Requests are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification. For further information regarding data access, contact: aurorabp@microsoft.com
 
 ---
 
 ## Data Use Application
 
-To access the full device-waveform data files hosted on an Azure data lake, a data use application <!-- TODO insert link to DUA --> must be completed, including:
+To access the de-identified dataset files hosted on an Azure data lake, a data use application <!-- TODO insert link to DUA --> must be completed, including:
 
 - Principal investigator information
-  - Academic credentials, affiliation, contact information, curriculum vitae
+  - Academic credentials, affiliation, contact information, curriculum vitae, signature attesting accuracy of data use application
 - Additional investigator information
   - Academic credentials, affiliation, contact information
 - Research proposal
@@ -28,7 +28,7 @@ To access the full device-waveform data files hosted on an Azure data lake, a da
   - Aurora-BP Study authors and Microsoft are under no obligation to provide any support or additional materials related to the use of these data
   - Aurora-BP Study authors and Microsoft are not liable for any losses, damages, or harms of any kind in connection to the use of these data
   - Aurora-BP Study authors and Microsoft are not responsible or liable for the accuracy, usefulness or availability of these data
-  - User will provide a signature of attestation that they have read, understood, and accept the data use agreement
+  - Primary Investigator will provide a signature of attestation that they have read, understood, and accept the data use agreement
 
 ---
 
