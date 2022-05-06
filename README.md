@@ -10,12 +10,11 @@ The publishing of these datasets as well as the characterization of multiple fea
 
 ### Data Access Committee
 
-Requests for data access are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification.
-<!-- TODO insert contact info -->
+Requests for [data access](docs/README.md) are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification. For further information regarding data access, contact: aurorabp@microsoft.com
 
 ### Data Use Application
 
-To access these data, a data use application must be completed, including:
+To access the dataset, a data use application must be completed, including:
 
 - Principal investigator information
   - Academic credentials, affiliation, contact information, curriculum vitae
