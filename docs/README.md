@@ -10,7 +10,7 @@ Full device-waveform data files are stored seperately from this repo within an A
 
 ## Data Use Application
 
-To access the full device-waveform data files hosted on an Azure datalake, a data use application <!-- TODO insert link to DUA --> must be completed, including:
+To access the full device-waveform data files hosted on an Azure data lake, a data use application <!-- TODO insert link to DUA --> must be completed, including:
 
 - Principal investigator information
   - Academic credentials, affiliation, contact information, curriculum vitae
