@@ -24,7 +24,7 @@ Requests for [data access](docs/README.md) are reviewed by the Data Access Commi
 
 ### Data Use Application
 
-Full data files are stored seperately from this repo within an Azure data lake. To gain access to these data files, a data use application (detailed below and on the data lake landing page) must be submitted. Any researcher may submit a data use application, <!-- TODO insert link to DUA -->which includes:
+Full data files are stored separately from this repo within an Azure data lake. To gain access to these data files, a data use application (detailed below and on the data lake landing page) must be submitted. Any researcher may submit a data use application, <!-- TODO insert link to DUA -->which includes:
 
 - Principal investigator information
   - Academic credentials, affiliation, contact information, curriculum vitae, signature attesting accuracy of data use application
