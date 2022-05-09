@@ -4,31 +4,7 @@
 
 Described are data used in the associated Aurora-BP Study publication "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)". See the [sample data](https://github.com/twede/aurorabp-sample-data/tree/main/sample) for a direct look at the file formats, and data file descriptions below for details.
 
-Complete de-identified dataset files are stored separately from this repo within an Azure data lake. To gain access, a data use application (detailed below and on the data lake landing page) must be submitted. Any researcher may submit a data use application. Requests are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification. For further information regarding data access, contact: aurorabp@microsoft.com
-
----
-
-## Data Use Application
-
-To access the de-identified dataset files hosted on an Azure data lake, a data use application <!-- TODO insert link to DUA --> must be completed, including:
-
-- Principal investigator information
-  - Academic credentials, affiliation, contact information, curriculum vitae, signature attesting accuracy of data use application
-- Additional investigator information
-  - Academic credentials, affiliation, contact information
-- Research proposal
-- Acknowledgement to comply with data use agreement. <!-- TODO insert link to DUA --> Key points are listed below:
-  - No sharing of data with anyone outside of approved PI and other specified investigators. New investigators must be reviewed.
-  - No data use outside of stated proposal scope
-  - No joining of data with other data sources
-  - No attempt to identify participants, contact participants, or reconstruct PII
-  - Storage with appropriate access control and best practices
-  - You may publish (or present papers or articles) on your results from using the data provided that no confidential information of Microsoft and no Personal Information are included in any such publication or presentation
-  - Any publication or presentation resulting from use of the data should include reference to the Aurora-BP Study, with full reference to the source publication <!-- TODO insert reference --> when appropriate
-  - Aurora-BP Study authors and Microsoft are under no obligation to provide any support or additional materials related to the use of these data
-  - Aurora-BP Study authors and Microsoft are not liable for any losses, damages, or harms of any kind in connection to the use of these data
-  - Aurora-BP Study authors and Microsoft are not responsible or liable for the accuracy, usefulness or availability of these data
-  - Primary Investigator will provide a signature of attestation that they have read, understood, and accept the data use agreement
+Complete de-identified dataset files are stored separately from this repo within an Azure data lake. To gain access, a data use application (detailed [here](https://github.com/microsoft/aurorabp-sample-data#data-access) and on the data lake landing page) must be submitted. Any researcher may submit a data use application. Requests are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification. For further information regarding data access, contact: aurorabp@microsoft.com
 
 ---
 
