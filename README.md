@@ -1,18 +1,20 @@
 # Aurora-BP Study Data
 
-This repository contains sample code and sample data for working with the Aurora-BP dataset published with Mieloszyk, Rebecca, et al. "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)" *IEEE Journal of Biomedical and Health Informatics* (2022).
+This repository contains sample code, sample data, and explanatory information for working with the **Aurora-BP dataset** published alongside the publication on the **Aurora-BP study**, i.e., Mieloszyk, Rebecca, et al. "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)" *IEEE Journal of Biomedical and Health Informatics* (2022). The dataset includes de-identified participant information, raw sensor data aligned with each measurement, and a wide variety of features derived from sensor data. The publishing of this dataset as well as the characterization of multiple feature groups across a broad population and multiple settings are intended to aid future cardiovascular research. 
 
-The publishing of this dataset as well as the characterization of multiple feature groups across a broad population and multiple settings are intended to aid future cardiovascular research. The dataset includes de-identified participant information, as well as aligned and featurized sensor data; see the publication for more information. 
-
-Note that the data contained in this repo represent a very small sample of the full dataset, meant only to illustrate the structure of the files and allow processing with the sample code. For access to the full dataset, see the [Data Use Application](Data Use Application) section below.
+Note that the data contained in this repository represent a very small sample of the full dataset, meant only to illustrate the structure of the files and allow testing with the sample code. For access to the full dataset, see the [Data Use Application](#data-use-application) section below.
 
 ## Navigation:
-- 'docs': 
-  - README with data file descriptions, a detailed Aurora-BP Study protocol overview, and supplemental results not included in the Aurora-BP Study Publication
-- 'notebooks':
-  - Sample Jupyter notebooks for basic analyses using Aurora-BP Study data
-- 'sample':
+- [docs](docs/README.md): 
+  - Data file descriptions, a detailed overview of the Aurora-BP Study protocol, and supplemental results not included in the Aurora-BP Study publication
+- [notebooks](notebooks/README.md):
+  - Sample Jupyter notebooks and environment files for basic analyses using Aurora-BP Study data
+- [sample](sample):
   - Example data files, to run sample Jupyter notebooks and provide researchers a direct look at the data format before application for full data access.
+
+## Citation
+If you use this repository, part or all of the full dataset, and/or our paper as part of your research, please refer to the dataset as the **Aurora-BP dataset** and cite the publication as below:
+- Mieloszyk, Rebecca, et al. "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)" *IEEE Journal of Biomedical and Health Informatics* (2022)
 
 ---
 
@@ -20,7 +22,7 @@ Note that the data contained in this repo represent a very small sample of the f
 
 ### Data Access Committee
 
-Requests for [data access](docs/README.md) are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification. For further information regarding data access, contact: aurorabp@microsoft.com
+Requests for [data access](docs/README.md) are reviewed by the Data Access Committee. During review, the submitting investigator and primary investigator may be contacted for verification. The information you will need to gather for a submitting a Data Use Application as well as a link to the form are listed below. For additional questions regarding data access, contact: aurorabp@microsoft.com
 
 ---
 
