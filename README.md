@@ -1,6 +1,6 @@
 # The Aurora-BP Dataset and Study
 
-This repository contains sample code, sample data, and explanatory information for working with the **Aurora-BP dataset** published alongside the publication of the **Aurora-BP study**, i.e., Mieloszyk, Rebecca, et al. "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)" *IEEE Journal of Biomedical and Health Informatics* (2022). The dataset includes de-identified participant information, raw sensor data aligned with each measurement, and a wide variety of features derived from sensor data. The publishing of this dataset as well as the characterization of multiple feature groups across a broad population and multiple settings are intended to aid future cardiovascular research. 
+This repository contains sample code, sample data, and explanatory information for working with the **Aurora-BP dataset** released alongside the publication of the **Aurora-BP study**, i.e., Mieloszyk, Rebecca, et al. "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)" *IEEE Journal of Biomedical and Health Informatics* (2022). The dataset includes de-identified participant information, raw sensor data aligned with each measurement, and a wide variety of features derived from sensor data. The publishing of this dataset as well as the characterization of multiple feature groups across a broad population and multiple settings are intended to aid future cardiovascular research. 
 
 Note that the data contained in this repository represent a very small sample of the full dataset, meant only to illustrate the structure of the files and allow testing with the sample code. For access to the full dataset, see the [Data Use Application](#data-use-application) section below.
 
@@ -22,7 +22,7 @@ If you use this repository, part or all of the full dataset, and/or our paper as
 
 ### Data Access Committee
 
-Requests for [data access](docs/README.md) are reviewed by the Data Access Committee. During review, the submitting investigator and primary investigator may be contacted for verification. The information you will need to gather for a submitting a Data Use Application as well as a link to the form are listed below. For additional questions regarding data access, contact: aurorabp@microsoft.com
+Requests for [data access](docs/README.md) are reviewed by the Data Access Committee. During review, the submitting investigator and primary investigator may be contacted for verification. The information you will need to gather to submit a Data Use Application as well as a link to the form are listed below. For additional questions regarding data access, contact: aurorabp@microsoft.com
 
 ---
 
