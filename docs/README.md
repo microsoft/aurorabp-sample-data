@@ -6,7 +6,7 @@
 - [Protocol Overview](#protocol-overview)
 - [Auscultatory Protocol](#auscultatory-protocol)
 - [Oscillometric Protocol](#oscillometric-protocol)
-- [Supplemental Analysis](#supplemental-analyses)
+- [Supplemental Analyses](#supplemental-analyses)
 
 ---
 
