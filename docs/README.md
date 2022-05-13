@@ -1,16 +1,18 @@
 # Data and Protocol Details
 
-## Data Files
+## Table of Contents
 
-Described are data used in the associated Aurora-BP Study publication "[A Comparison of Wearable Tonometry, Photoplethysmography, and Electrocardiography for Cuffless Measurement of Blood Pressure in an Ambulatory Setting.](https://ieeexplore.ieee.org/document/9721156)". See the [sample data](https://github.com/twede/aurorabp-sample-data/tree/main/sample) for a direct look at the file formats, and data file descriptions below for details.
-
-Complete de-identified dataset files are stored separately from this repo within an Azure data lake. To gain access, a data use application (detailed [here](https://github.com/microsoft/aurorabp-sample-data#data-access) and on the data lake landing page) must be submitted. Any researcher may submit a data use application. Requests are reviewed by the Data Access Committee. During review, submitting investigator and primary investigator may be contacted for verification. For further information regarding data access, contact: aurorabp@microsoft.com
+- [Data File Descriptions](#data-file-descriptions)
+- [Protocol Overview](#protocol-overview)
+- [Auscultatory Protocol](#auscultatory-protocol)
+- [Oscillometric Protocol](#oscillometric-protocol)
+- [Supplemental Analysis](#supplemental-analyses)
 
 ---
 
 ## Data File Descriptions
 
-<!-- TODO: include JSON files with type information for each file type -->
+A small [sample dataset](../sample) is contained in this repository, but the complete de-identified dataset is stored elsewhere. To gain access, any researcher may submit a data use request as described in [Data Access](../README.md#data-access).
 
 ### Participant information file
 
@@ -206,7 +208,7 @@ The auscultatory protocol aimed to collect and analyze radial pulse waveform inf
 
 ### Auscultatory Device Setup
 
-Auscultatory measurements were performed by trained expert observers using a dual-head stethoscope for paired auscultation BP measurements using the ADC Diagnostix 700/703 aneroid sphygmomanometer. In extenuating circumstances, single-observer auscultation was performed. <!-- TODO: Note how to identify single-observer data --> During paired auscultation, observers were blinded to each other's measurement determinations until the end of the visit. The brachial cuff was fitted to the participant's left or right arm (randomized). Cuff inflation and deflation were manually controlled by one of the observers.
+Auscultatory measurements were performed by trained expert observers using a dual-head stethoscope for paired auscultation BP measurements using the ADC Diagnostix 700/703 aneroid sphygmomanometer. In extenuating circumstances, single-observer auscultation was performed. During paired auscultation, observers were blinded to each other's measurement determinations until the end of the visit. The brachial cuff was fitted to the participant's left or right arm (randomized). Cuff inflation and deflation were manually controlled by one of the observers.
 
 ### Auscultatory Initial Visit Measurements
 
