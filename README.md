@@ -30,7 +30,7 @@ If you use this repository, part or all of the full dataset, and/or our paper as
 
 ## Data Access
 
-Requests for data access are reviewed by the Data Access Committee. During review, the submitting investigator and primary investigator may be contacted for verification. The information you will need to gather to submit a data access request as well as a link to the form are listed below. For additional questions regarding data access, contact: aurorabp@microsoft.com
+Requests for data access are reviewed by the Data Access Committee. During review, the primary investigator and submission preparer (if different from primary investigator) may be contacted for verification. The information you will need to gather to submit a data access request as well as a link to the form are listed below. For additional questions regarding data access, contact: aurorabp@microsoft.com
 
 ### Data Access Request
 
