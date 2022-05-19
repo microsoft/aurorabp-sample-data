@@ -38,10 +38,10 @@ jupyter notebook
 
 ## Notebooks
 
-Jupyter notebook files are located in the `notebooks` folder. These give examples of data import, plotting, and prediction. Below are descriptions of each.
+The following Jupyter notebook files are provided to give examples of data import, plotting, and prediction:
 
-| Example | File | Description | 
+| Example | File | Description |
 |:-------------------- |:-------------------- |:-------------------- |
 | Data Plotting Example | `data_plotting_example.ipynb` | This example of sample data manipulation includes binning feature data into intervals and plotting histograms as well as feature comparisons. |
 | Waveform Example | `waveform_example.ipynb` | Load sample measurement data, set up filters, and plot waveforms.  |
-| Prediction Example | `prediction_example.ipynb` | Try out BP prediction from sample feature data. This notebook also demonstrates the correct setup of participant-stratified cross validation. |
+| Prediction Example | `prediction_example.ipynb` | Example BP prediction from sample feature data. This notebook also demonstrates the correct setup of participant-stratified cross-validation. |
