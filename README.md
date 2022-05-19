@@ -4,7 +4,7 @@ This repository contains sample code, sample data, and explanatory information f
 
 The dataset includes de-identified participant information, raw sensor data aligned with each measurement, and a wide variety of features derived from sensor data. The publishing of this dataset as well as the characterization of multiple feature groups across a broad population and multiple settings are intended to aid future cardiovascular research.
 
-Note that the data contained in this repository represent a very small sample of the full dataset, meant only to illustrate the structure of the files and allow testing with the sample code. For access to the full dataset, see the [data access request](#data-access-request) section below.
+Note that the data contained in this repository represent a very small sample of the full dataset, meant only to illustrate the structure of the files and allow testing with the sample code. For access to the full dataset, see the [data access](#data-access) section below.
 
 ## Citation
 
