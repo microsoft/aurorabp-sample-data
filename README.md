@@ -4,7 +4,7 @@ This repository contains sample code, sample data, and explanatory information f
 
 The dataset includes de-identified participant information, raw sensor data aligned with each measurement, and a wide variety of features derived from sensor data. The publishing of this dataset as well as the characterization of multiple feature groups across a broad population and multiple settings are intended to aid future cardiovascular research.
 
-Note that the data contained in this repository represent a very small sample of the full dataset, meant only to illustrate the structure of the files and allow testing with the sample code. For access to the full dataset, see the [data use request](#data-use-request) section below.
+Note that the data contained in this repository represent a very small sample of the full dataset, meant only to illustrate the structure of the files and allow testing with the sample code. For access to the full dataset, see the [data access](#data-access) section below.
 
 ## Citation
 
@@ -30,11 +30,11 @@ If you use this repository, part or all of the full dataset, and/or our paper as
 
 ## Data Access
 
-Requests for data access are reviewed by the Data Access Committee. During review, the submitting investigator and primary investigator may be contacted for verification. The information you will need to gather to submit a data use request as well as a link to the form are listed below. For additional questions regarding data access, contact: aurorabp@microsoft.com
+Requests for data access are reviewed by the Data Access Committee. During review, the primary investigator and submission preparer (if different from primary investigator) may be contacted for verification. The information you will need to gather to submit a data access request as well as a link to the form are listed below. For additional questions regarding data access, contact: aurorabp@microsoft.com
 
-### Data Use Request
+### Data Access Request
 
-Full data files are stored separately from this repo within Azure. To gain access to these data files, any researcher may submit a [data use request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhD74UtFW8mtjvfuL24R-oLahbMHQd2OJTLURiy0cT8RXlTEFf3n5Y8OzpPdEPSiEvY*), which includes:
+Full data files are stored separately from this repo within Azure. To gain access to these data files, any researcher may submit a [data access request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhD74UtFW8mtjvfuL24R-oLahbMHQd2OJTLURiy0cT8RXlTEFf3n5Y8OzpPdEPSiEvY*), which includes:
 
 - Principal investigator information
   - Academic credentials, affiliation, contact information, curriculum vitae, signature attesting accuracy of data use request

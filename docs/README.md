@@ -12,7 +12,7 @@
 
 ## Data File Descriptions
 
-A small [sample dataset](../sample) is contained in this repository, but the complete de-identified dataset is stored elsewhere. To gain access, any researcher may submit a data use request as described in [Data Access](../README.md#data-access).
+A small [sample dataset](../sample) is contained in this repository, but the complete de-identified dataset is stored elsewhere. To gain access, any researcher may submit a data access request as described in [Data Access](../README.md#data-access).
 
 ### Participant information file
 
