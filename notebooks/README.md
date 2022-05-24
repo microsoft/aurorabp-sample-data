@@ -13,7 +13,7 @@ conda info
 For example, to create a new environment called "aurorabp" on a 64-bit Windows computer, run the following command:
 
 ```bash
-conda create --name aurorabp --file conda-win64.lock
+conda create --name aurorabp --file conda-win-64.lock
 ```
 
 Alternatively, if you're using an ARM-based Mac, the command would be:
