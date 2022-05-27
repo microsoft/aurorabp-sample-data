@@ -200,7 +200,7 @@ Optical/PPG | [MAX30101](https://www.maximintegrated.com/en/products/interface/s
 ECG         | [ADS1292](https://www.ti.com/product/ADS1292) | 498.67 S/s
 Accelerometer | [LSM330](https://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/LSM330.pdf) | 100 S/s
 
-![Data Provenance](dataprovenance.png)
+![Data Provenance]()
 
 ## Auscultatory Protocol
 
