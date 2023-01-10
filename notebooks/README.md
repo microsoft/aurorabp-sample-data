@@ -29,7 +29,7 @@ conda create --name aurorabp --file conda-win-64.lock
 Alternatively, if you're using a different platform, or have trouble installing using the conda-lock file, as described above, you can install the latest versions of all dependencies using the `environment.yml` file:
 
 ```bash
-conda create --name aurorabp --file environment.yml
+conda env create --name aurorabp --file environment.yml
 ```
 
 ## Running Notebooks
