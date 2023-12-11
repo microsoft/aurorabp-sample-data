@@ -34,7 +34,7 @@ Requests for data access are reviewed by the Data Access Committee. During revie
 
 ### Data Access Request
 
-Full data files are stored separately from this repo within Azure. To gain access to these data files, any researcher may submit a [data access request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhD74UtFW8mtjvfuL24R-oLahbMHQd2OJTLURiy0cT8RXlTEFf3n5Y8OzpPdEPSiEvY*), which includes:
+Full data files are stored separately from this repo within Azure. To gain access to these data files, any researcher may submit a [data access request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAjE_x4H9SflkQspDSIZ3BTL_SuSm1_r5LDw8ZgxY4sFtj8jA2bHqPuSryCrP1IISE*), which includes:
 
 - Principal investigator information
   - Academic credentials, affiliation, contact information, curriculum vitae, signature attesting accuracy of data use request
