@@ -192,7 +192,7 @@ Accelerometer | [LSM6DS3](https://www.st.com/en/mems-and-sensors/lsm6ds3tr-c.htm
 
 ### Optical Sensing Device
 
-The optical device resembles a large smart watch and records ECG and PPG signals. It incorporates a commercial PPG optical sensor (MAX30101) that sits underneath the watch body. The three ECG contacts are made via standard wet electrodes with two electrodes connected on the same arm as the device, and the third connected to the chest on the opposite side of the heart.  An accelerometer (LSM330) is used to monitor arm posture and activity level.
+The optical device resembles a large smart watch and records ECG and PPG signals. It incorporates a commercial PPG optical sensor (MAX30101) that sits underneath the watch body. The only LED used in the collection of PPG signals was the green LED, which has a nominal wavelength peak of between 527 nm and 537 nm depending on ambient conditions. The three ECG contacts are made via standard wet electrodes with two electrodes connected on the same arm as the device, and the third connected to the chest on the opposite side of the heart.  An accelerometer (LSM330) is used to monitor arm posture and activity level.
 
 Sensor Type | Part Number | Sampling Rate
 ----------- | ----------- | -------------
