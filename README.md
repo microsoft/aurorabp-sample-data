@@ -34,7 +34,11 @@ Requests for data access are reviewed by the Data Access Committee. During revie
 
 ### Data Access Request
 
-Full data files are stored separately from this repo within Azure. To gain access to these data files, any researcher may submit a [data access request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAjE_x4H9SflkQspDSIZ3BTL_SuSm1_r5LDw8ZgxY4sFtj8jA2bHqPuSryCrP1IISE*), which includes:
+Full data files are stored separately from this repo within Azure. To gain access to these data files, any researcher may submit a data access request. Data Access Requests may be submitted via the AdobeSign links below. Please note that AdobeSign works best on a chromium-based browser like Edge.
+- **If you are the Primary Investigator (PI)** and would like to submit a data access request, [click here to complete a PI Self-Prepared Data Access Request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDmNgwSnYgQhGFkbqjlvYvCcLvkjEj5n33W0MS6gislEGwM_6jcXP8TvvKUgRG8mgc*).
+- If you are *not* the PI, but are **filling the form as a preparer who then sends the form to the PI for review and signature**, click here to complete a [Preparer-filled form with PI completion Data Access Request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAlGBSYjhejXpnwTvHVGs4qZjYLMDLEjJNPMbosB7dv8LM7oAQOWhkLvQj0gzI3ug4*). As a preparer, you can fill in all fields (except PI signature fields) and attach required documents before entering your PI's contact information so they can review and sign the form.
+
+Your data access request will include:
 
 - Principal investigator information
   - Academic credentials, affiliation, contact information, curriculum vitae, signature attesting accuracy of data use request
