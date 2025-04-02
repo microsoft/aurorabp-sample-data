@@ -170,7 +170,7 @@ In the list of features above, many features are calculated with respect to a ba
 
 While there are many ways to accomplish the construction of a baseline measurement, we provide two example approaches here, each with different objectives:
 
-1. **Calibration average values / Seated calibration average values** - to optimize for a consistent systolic BP value in the baseline measurements we average the features for the two calibration measurements$^*$ with the smallest difference in `sbp`. If fewer than two usable measurements exist to choose from, we took the features from the only usable measurement.
+1. **Calibration average values / Seated calibration average values** - to optimize for a consistent systolic BP value in the baseline measurements we average the features for the two calibration measurements $^*$ with the smallest difference in `sbp`. If fewer than two usable measurements exist to choose from, we took the features from the only usable measurement.
 2. **Calibration closest values / Seated calibration closest values** - to optimize for a baseline measurement with the highest quality tonometric signal we choose single measurement of the two candidates from (1) with the highest number of valid features.
 
 In both cases, to better harmonize between the oscillometric and auscultatory protocols, the `sbp` and `dbp` values for all auscultatory synthetic measurements are taken directly from the primary observer (i.e., `primary_systolic` and `primary_diastolic` in `measurements_auscultatory.tsv`) for that synthetic measurement.
