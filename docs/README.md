@@ -166,9 +166,24 @@ Notes:
 
 ### Synthetic Measurements
 
-In order to standardize analysis across auscultatory and oscillometric protocols as well as within participant sets, a series of harmonized “synthetic” phase measurements were derived from initial visit data. These synthetic measurements only appear in the `features.tsv` file, and do not have any associated waveform files or associated rows in the measurements TSV files. The two types of harmonization performed were (1) to optimize for a consistent BP value baseline, and (2) to optimize for a baseline with the most available tonometric signal.
+In the list of features above, many features are calculated with respect to a baseline - or calibration - measurement that is specific to the participant. In order to construct these baselines in a consistent way across the two protocols, a series of harmonized “synthetic” phase measurements were derived from initial visit data. These synthetic measurements only appear in the `features.tsv` file, and do not have any associated waveform files or associated rows in the measurements TSV files.
 
-These were calculated for initial supine measurements and, when available, initial seated measurements. Initial calibration measurements were averaged to create the "Calibration average values" baseline reported in "baseline_sbp" and "baseline_dbp"; these baselines were used in calculating "delta_" features for each participant.
+While there are many ways to accomplish the construction of a baseline measurement, we provide two example approaches here, each with different objectives:
+
+1. **Calibration average values / Seated calibration average values** - to optimize for a consistent systolic BP value in the baseline measurements we average the features for the two calibration measurements&Dagger; with the smallest difference in `sbp`. If fewer than two usable measurements exist to choose from, we took the features from the only usable measurement.
+2. **Calibration closest values / Seated calibration closest values** - to optimize for a baseline measurement with the highest quality tonometric signal we choose single measurement of the two candidates from (1) with the highest number of valid features.
+
+In both cases, to better harmonize between the oscillometric and auscultatory protocols, the `sbp` and `dbp` values for all auscultatory synthetic measurements are taken directly from the primary observer (i.e., `primary_systolic` and `primary_diastolic` in `measurements_auscultatory.tsv`) for that synthetic measurement.
+
+In `features.tsv` all features prefixed with `delta_` are calculated with respect to the synthetic measurement "Calibration average values" and all of the features prefixed with `baseline_` are drawn directly from that same synthetic measurement. The other synthetic measurements are provided in the case that users wish to construct their own `delta_` and `baseline_` features.
+
+Notes:
+
+- &Dagger; The candidate measurements considered varied across protocols and across supine vs seated postures
+  - For the auscultatory protocol and supine posture the candidates were all measurements with names starting with "Calibration start"
+  - For the auscultatory protocol and seated posture the candidates were all measurements with names starting with "Seated calibration"
+  - For the ambulatory protocol and supine posture the canddiates were measurements named "Supine 1" and "Supine 2"
+  - For the ambulatory protocol and seated posture, the only candidate was "Sitting arm up" and both baselines are drawn directly from this measurement.
 
 ---
 
