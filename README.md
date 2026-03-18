@@ -30,30 +30,18 @@ If you use this repository, part or all of the full dataset, and/or our paper as
 
 ## Data Access
 
-Requests for data access are reviewed by the Data Access Committee. During review, the primary investigator and submission preparer (if different from primary investigator) may be contacted for verification. The information you will need to gather to submit a data access request as well as a link to the form are listed below. For additional questions regarding data access, contact: aurorabp@microsoft.com
+Full data files are stored separately from this repo within Zenodo. To gain access to these data files, navigate to https://doi.org/10.5281/zenodo.19099166.
 
-### Data Access Request
+Use of this data is governed by the terms of the Data Use Agreement. **By downloading, accessing, viewing, or using the Aurora-BP study data, you agree to the terms of the Data Use Agreement**, which defines the permitted uses of the Aurora-BP study data. 
 
-Full data files are stored separately from this repo within Azure. To gain access to these data files, any researcher may submit a data access request. Data Access Requests may be submitted via the AdobeSign links below. Please note that AdobeSign works best on a chromium-based browser like Edge.
-- **If you are the Primary Investigator (PI)** and would like to submit a data access request, [click here to complete a PI Self-Prepared Data Access Request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDmNgwSnYgQhGFkbqjlvYvCcLvkjEj5n33W0MS6gislEGwM_6jcXP8TvvKUgRG8mgc*).
-- If you are *not* the PI, but are **filling the form as a preparer who then sends the form to the PI for review and signature**, click here to complete a [Preparer-filled form with PI completion Data Access Request](https://microsoft.na3.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAlGBSYjhejXpnwTvHVGs4qZjYLMDLEjJNPMbosB7dv8LM7oAQOWhkLvQj0gzI3ug4*). As a preparer, you can fill in all fields (except PI signature fields) and attach required documents before entering your PI's contact information so they can review and sign the form.
+Any use outside of the specifications of the Data Use Agreement is prohibited. You must read and agree to the full Data Use Agreement; key points are summarized below:
 
-Your data access request will include:
-
-- Principal investigator information
-  - Academic credentials, affiliation, contact information, curriculum vitae, signature attesting accuracy of data use request
-- Additional investigator information
-  - Academic credentials, affiliation, contact information
-- Research proposal
-- Acknowledgement to comply with Data Use Agreement. Key points are listed below:
-  - No sharing of data with anyone outside of approved PI and other specified investigators. New investigators must be reviewed.
-  - No data use outside of stated proposal scope
-  - No joining of data with other data sources
-  - No attempt to identify participants, contact participants, or reconstruct PII
-  - Storage with appropriate access control and best practices
-  - You may publish (or present papers or articles) on your results from using the data provided that no confidential information of Microsoft and no Personal Information are included in any such publication or presentation
-  - Any publication or presentation resulting from use of the data should include reference to the Aurora-BP Study, with [full reference](#citation) to the source publication when appropriate
-  - Aurora-BP Study authors and Microsoft are under no obligation to provide any support or additional materials related to the use of these data
-  - Aurora-BP Study authors and Microsoft are not liable for any losses, damages, or harms of any kind in connection to the use of these data
-  - Aurora-BP Study authors and Microsoft are not responsible or liable for the accuracy, usefulness or availability of these data
-  - Primary Investigator will provide a signature of attestation that they have read, understood, and accept the Data Use Agreement
+- No redistribution of the data. Others who wish to use the data must acquire access individually.
+- No joining of data with other data sources
+- No attempt to identify participants, contact participants, or reconstruct PII
+- Storage with appropriate access control and best practices
+- You may publish (or present papers or articles) on your results from using the data provided that no confidential information of Microsoft and no Personal Information are included in any such publication or presentation
+- Any publication or presentation resulting from use of the data should include reference to the Aurora-BP Study, with full reference to the source publication when appropriate
+- Aurora-BP Study authors and Microsoft are under no obligation to provide any support or additional materials related to the use of these data
+- Aurora-BP Study authors and Microsoft are not liable for any losses, damages, or harms of any kind in connection to the use of these data
+- Aurora-BP Study authors and Microsoft are not responsible or liable for the accuracy, usefulness or availability of these data
